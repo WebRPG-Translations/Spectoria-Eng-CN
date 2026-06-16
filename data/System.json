@@ -1,1 +1,766 @@
-{"airship":{"bgm":{"name":"Ship3","pan":0,"pitch":100,"volume":90},"characterIndex":3,"characterName":"","startMapId":0,"startX":0,"startY":0},"armorTypes":["","General Armor","Magic Armor","Light Armor","Heavy Armor","Small Shield","Large Shield"],"attackMotions":[{"type":0,"weaponImageId":0},{"type":1,"weaponImageId":1},{"type":1,"weaponImageId":2},{"type":1,"weaponImageId":3},{"type":1,"weaponImageId":4},{"type":1,"weaponImageId":5},{"type":1,"weaponImageId":6},{"type":2,"weaponImageId":7},{"type":2,"weaponImageId":8},{"type":2,"weaponImageId":9},{"type":0,"weaponImageId":10},{"type":0,"weaponImageId":11},{"type":0,"weaponImageId":12}],"battleBgm":{"name":"03_Endless_Battle","pan":0,"pitch":100,"volume":90},"battleback1Name":"Grassland","battleback2Name":"Grassland","battlerHue":0,"battlerName":"01たまこうもり","boat":{"bgm":{"name":"Ship1","pan":0,"pitch":100,"volume":90},"characterIndex":0,"characterName":"","startMapId":0,"startX":0,"startY":0},"currencyUnit":"Ｇ","defeatMe":{"name":"Defeat1","pan":0,"pitch":100,"volume":90},"editMapId":27,"elements":["","Physical","Fire","Ice","Thunder","","Earth","","Light","Dark"],"equipTypes":["","Weapon","Body","Accessory"],"gameTitle":"SPECTORIA - Fan Translation","gameoverMe":{"name":"Gameover1","pan":0,"pitch":100,"volume":90},"locale":"ja_JP","magicSkills":[1],"menuCommands":[true,true,true,true,true,true],"optDisplayTp":true,"optDrawTitle":false,"optExtraExp":true,"optFloorDeath":false,"optFollowers":false,"optSideView":false,"optSlipDeath":false,"optTransparent":false,"partyMembers":[1],"ship":{"bgm":{"name":"Ship2","pan":0,"pitch":100,"volume":90},"characterIndex":1,"characterName":"","startMapId":0,"startX":0,"startY":0},"skillTypes":["","Magic","Skill"],"sounds":[{"name":"Cursor2","pan":0,"pitch":100,"volume":90},{"name":"Decision1","pan":0,"pitch":100,"volume":90},{"name":"Cancel2","pan":0,"pitch":100,"volume":90},{"name":"Buzzer1","pan":0,"pitch":100,"volume":90},{"name":"Equip1","pan":0,"pitch":100,"volume":90},{"name":"Save","pan":0,"pitch":100,"volume":90},{"name":"Load","pan":0,"pitch":100,"volume":90},{"name":"Battle1","pan":0,"pitch":100,"volume":90},{"name":"Run","pan":0,"pitch":100,"volume":90},{"name":"Attack3","pan":0,"pitch":100,"volume":90},{"name":"Damage4","pan":0,"pitch":100,"volume":90},{"name":"Collapse1","pan":0,"pitch":100,"volume":90},{"name":"Collapse2","pan":0,"pitch":100,"volume":90},{"name":"Collapse3","pan":0,"pitch":100,"volume":90},{"name":"Damage5","pan":0,"pitch":100,"volume":90},{"name":"Collapse4","pan":0,"pitch":100,"volume":90},{"name":"Recovery","pan":0,"pitch":100,"volume":90},{"name":"Miss","pan":0,"pitch":100,"volume":90},{"name":"Evasion1","pan":0,"pitch":100,"volume":90},{"name":"Evasion2","pan":0,"pitch":100,"volume":90},{"name":"Reflection","pan":0,"pitch":100,"volume":90},{"name":"Shop1","pan":0,"pitch":100,"volume":90},{"name":"Item3","pan":0,"pitch":100,"volume":90},{"name":"Item3","pan":0,"pitch":100,"volume":90}],"startMapId":6,"startX":11,"startY":13,"switches":["","★ Tickle Animation","★ Anime animation","★ Pikpiku animation","skip","Talk with Dorothy","Auto Battle","★ Tickling animation 2","Normal or more","Destroy or more","","","","","","","","","","","並び替え許可","Rock 1","Rock 2","Rock 3","Rock 4","Rock 5","Rock 5 Falling","Rock 6","Rock 6 Falling","Cave Warp","Clear cave","Flower 1","Flower 2","Clear forest","Red 1","Blue 1","Red 2","Blue 2","Yellow 1","Yellow 2","Machine clear","Occasional bat","Usami Pixie","Cement slime","Tentagel","Rock devil","Wallai tribe","Ketaketake","Warp Mall","Breasts Cactus","Hundred caterpillar","Lotion tank","Mecha gakusha","Freeze Box","Karakuri Quaggata","Cleaning Lloyd","","","","",""],"terms":{"basic":["Level","Lv","HP","HP","MP","MP","Urge","Urge","Experience","EXP"],"commands":["Fight","Escape","Attack","Guard","Item","Skill","Equip","Status","Formation","Save","Game End","Options","Weapon","Armor","Key Items","Equipment","Optimize","Clear","New Game","Continue",null,"To Title","Cancel",null,"Buy","Sell"],"params":["Max HP","Max MP","Attack","Defense","Magic Attack","Magic Defense","Speed","Luck","Accuracy","Evasion Rate"],"messages":{"actionFailure":"There was no effect on %1!","actorDamage":"%1 took %2 damage!","actorDrain":"%1 was drained of %2 %3!","actorGain":"%1 gained %2 %3!","actorLoss":"%1 lost %2 %3!","actorNoDamage":"%1 took no damage!","actorNoHit":"Miss! %1 took no damage!","actorRecovery":"%1 recovered %2 %3!","alwaysDash":"Always Dash","bgmVolume":"BGM Volume","bgsVolume":"BGS Volume","buffAdd":"%1's %2 went up!","buffRemove":"%1's %2 returned to normal!","commandRemember":"Command Remember","counterAttack":"%1 counterattacked!","criticalToActor":"A painful blow!!","criticalToEnemy":"An excellent hit!!","debuffAdd":"%1's %2 went down!","defeat":"%1 was defeated.","emerge":"%1 emerged!","enemyDamage":"%1 took %2 damage!","enemyDrain":"%1 was drained of %2 %3!","enemyGain":"%1 gained %2 %3!","enemyLoss":"%1 lost %2 %3!","enemyNoDamage":"%1 took no damage!","enemyNoHit":"Miss! %1 took no damage!","enemyRecovery":"%1 recovered %2 %3!","escapeFailure":"However, she was unable to escape!","escapeStart":"%1 has started to escape!","evasion":"%1 evaded the attack!","expNext":"To Next %1","expTotal":"Current %1","file":"File","levelUp":"%1 is now %2 %3!","loadMessage":"Load which file?","magicEvasion":"%1 nullified the magic!","magicReflection":"%1 reflected the magic!","meVolume":"ME Volume","obtainExp":"%1 %2 received!","obtainGold":"%1\\G found!","obtainItem":"%1 found!","obtainSkill":"%1 learned!","partyName":"%1's Party","possession":"Possessions","preemptive":"%1 got the upper hand!","saveMessage":"Save to which file?","seVolume":"SE Volume","substitute":"%1 protected %2!","surprise":"%1 was surprised!","useItem":"%1 uses %2!","victory":"%1 was victorious!"}},"testBattlers":[{"actorId":1,"equips":[1,1,2,3,0],"level":12},{"actorId":2,"equips":[4,0,0,0,0],"level":12},{"actorId":3,"equips":[3,3],"level":12},{"actorId":6,"equips":[6,6],"level":12}],"testTroopId":6,"title1Name":"スペクタリア","title2Name":"","titleBgm":{"name":"CT_Aldo","pan":0,"pitch":100,"volume":90},"variables":["","Enemy ID","damage","Urination","Increase MP","Increased desire to urinate","story","probability","Map position X","Map position Y","Number of CG sheets","CG what piece","Number of turns","Fastest speed","Arlaune fastest","Gigantic Fastest","Boss HP","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","X","Y","Kocho X","Chichu Y","Ｘ","Ｙ","","","","","","","","","","Number of characters","","","","","","","","","","","","","","","","","","","","","","","","","","","Occasional bat","Usami Pixie","Cement slime","Tentagel","Rock devil","Numonyushi","Wallai tribe","Ketaketake","Warp Mall","Breasts Cactus","Hundred caterpillar","Lotion tank","Mecha gakusha","Freeze Box","Karakuri Quaggata","Cleaning Lloyd","Gigantile","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],"versionId":89867854,"victoryMe":{"name":"Victory1","pan":0,"pitch":100,"volume":90},"weaponTypes":["","Sword"],"windowTone":[0,0,51,0],"hasEncryptedImages":true,"hasEncryptedAudio":false,"encryptionKey":"e017326696de4306dd5f99e53f8d804a"}
+{
+  "airship": {
+    "bgm": {
+      "name": "Ship3",
+      "pan": 0,
+      "pitch": 100,
+      "volume": 90
+    },
+    "characterIndex": 3,
+    "characterName": "",
+    "startMapId": 0,
+    "startX": 0,
+    "startY": 0
+  },
+  "armorTypes": [
+    "",
+    "General Armor",
+    "Magic Armor",
+    "Light Armor",
+    "Heavy Armor",
+    "Small Shield",
+    "Large Shield"
+  ],
+  "attackMotions": [
+    {
+      "type": 0,
+      "weaponImageId": 0
+    },
+    {
+      "type": 1,
+      "weaponImageId": 1
+    },
+    {
+      "type": 1,
+      "weaponImageId": 2
+    },
+    {
+      "type": 1,
+      "weaponImageId": 3
+    },
+    {
+      "type": 1,
+      "weaponImageId": 4
+    },
+    {
+      "type": 1,
+      "weaponImageId": 5
+    },
+    {
+      "type": 1,
+      "weaponImageId": 6
+    },
+    {
+      "type": 2,
+      "weaponImageId": 7
+    },
+    {
+      "type": 2,
+      "weaponImageId": 8
+    },
+    {
+      "type": 2,
+      "weaponImageId": 9
+    },
+    {
+      "type": 0,
+      "weaponImageId": 10
+    },
+    {
+      "type": 0,
+      "weaponImageId": 11
+    },
+    {
+      "type": 0,
+      "weaponImageId": 12
+    }
+  ],
+  "battleBgm": {
+    "name": "03_Endless_Battle",
+    "pan": 0,
+    "pitch": 100,
+    "volume": 90
+  },
+  "battleback1Name": "Grassland",
+  "battleback2Name": "Grassland",
+  "battlerHue": 0,
+  "battlerName": "01たまこうもり",
+  "boat": {
+    "bgm": {
+      "name": "Ship1",
+      "pan": 0,
+      "pitch": 100,
+      "volume": 90
+    },
+    "characterIndex": 0,
+    "characterName": "",
+    "startMapId": 0,
+    "startX": 0,
+    "startY": 0
+  },
+  "currencyUnit": "Ｇ",
+  "defeatMe": {
+    "name": "Defeat1",
+    "pan": 0,
+    "pitch": 100,
+    "volume": 90
+  },
+  "editMapId": 27,
+  "elements": [
+    "",
+    "Physical",
+    "Fire",
+    "Ice",
+    "Thunder",
+    "",
+    "Earth",
+    "",
+    "Light",
+    "Dark"
+  ],
+  "equipTypes": [
+    "",
+    "Weapon",
+    "Body",
+    "Accessory"
+  ],
+  "gameTitle": "[汉化] SPECTORIA ~光谱传说~",
+  "gameoverMe": {
+    "name": "Gameover1",
+    "pan": 0,
+    "pitch": 100,
+    "volume": 90
+  },
+  "locale": "ja_JP",
+  "magicSkills": [
+    1
+  ],
+  "menuCommands": [
+    true,
+    true,
+    true,
+    true,
+    true,
+    true
+  ],
+  "optDisplayTp": true,
+  "optDrawTitle": false,
+  "optExtraExp": true,
+  "optFloorDeath": false,
+  "optFollowers": false,
+  "optSideView": false,
+  "optSlipDeath": false,
+  "optTransparent": false,
+  "partyMembers": [
+    1
+  ],
+  "ship": {
+    "bgm": {
+      "name": "Ship2",
+      "pan": 0,
+      "pitch": 100,
+      "volume": 90
+    },
+    "characterIndex": 1,
+    "characterName": "",
+    "startMapId": 0,
+    "startX": 0,
+    "startY": 0
+  },
+  "skillTypes": [
+    "",
+    "Magic",
+    "Skill"
+  ],
+  "sounds": [
+    {
+      "name": "Cursor2",
+      "pan": 0,
+      "pitch": 100,
+      "volume": 90
+    },
+    {
+      "name": "Decision1",
+      "pan": 0,
+      "pitch": 100,
+      "volume": 90
+    },
+    {
+      "name": "Cancel2",
+      "pan": 0,
+      "pitch": 100,
+      "volume": 90
+    },
+    {
+      "name": "Buzzer1",
+      "pan": 0,
+      "pitch": 100,
+      "volume": 90
+    },
+    {
+      "name": "Equip1",
+      "pan": 0,
+      "pitch": 100,
+      "volume": 90
+    },
+    {
+      "name": "Save",
+      "pan": 0,
+      "pitch": 100,
+      "volume": 90
+    },
+    {
+      "name": "Load",
+      "pan": 0,
+      "pitch": 100,
+      "volume": 90
+    },
+    {
+      "name": "Battle1",
+      "pan": 0,
+      "pitch": 100,
+      "volume": 90
+    },
+    {
+      "name": "Run",
+      "pan": 0,
+      "pitch": 100,
+      "volume": 90
+    },
+    {
+      "name": "Attack3",
+      "pan": 0,
+      "pitch": 100,
+      "volume": 90
+    },
+    {
+      "name": "Damage4",
+      "pan": 0,
+      "pitch": 100,
+      "volume": 90
+    },
+    {
+      "name": "Collapse1",
+      "pan": 0,
+      "pitch": 100,
+      "volume": 90
+    },
+    {
+      "name": "Collapse2",
+      "pan": 0,
+      "pitch": 100,
+      "volume": 90
+    },
+    {
+      "name": "Collapse3",
+      "pan": 0,
+      "pitch": 100,
+      "volume": 90
+    },
+    {
+      "name": "Damage5",
+      "pan": 0,
+      "pitch": 100,
+      "volume": 90
+    },
+    {
+      "name": "Collapse4",
+      "pan": 0,
+      "pitch": 100,
+      "volume": 90
+    },
+    {
+      "name": "Recovery",
+      "pan": 0,
+      "pitch": 100,
+      "volume": 90
+    },
+    {
+      "name": "Miss",
+      "pan": 0,
+      "pitch": 100,
+      "volume": 90
+    },
+    {
+      "name": "Evasion1",
+      "pan": 0,
+      "pitch": 100,
+      "volume": 90
+    },
+    {
+      "name": "Evasion2",
+      "pan": 0,
+      "pitch": 100,
+      "volume": 90
+    },
+    {
+      "name": "Reflection",
+      "pan": 0,
+      "pitch": 100,
+      "volume": 90
+    },
+    {
+      "name": "Shop1",
+      "pan": 0,
+      "pitch": 100,
+      "volume": 90
+    },
+    {
+      "name": "Item3",
+      "pan": 0,
+      "pitch": 100,
+      "volume": 90
+    },
+    {
+      "name": "Item3",
+      "pan": 0,
+      "pitch": 100,
+      "volume": 90
+    }
+  ],
+  "startMapId": 6,
+  "startX": 11,
+  "startY": 13,
+  "switches": [
+    "",
+    "★ Tickle Animation",
+    "★ Anime animation",
+    "★ Pikpiku animation",
+    "skip",
+    "Talk with Dorothy",
+    "Auto Battle",
+    "★ Tickling animation 2",
+    "Normal or more",
+    "Destroy or more",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "並び替え許可",
+    "Rock 1",
+    "Rock 2",
+    "Rock 3",
+    "Rock 4",
+    "Rock 5",
+    "Rock 5 Falling",
+    "Rock 6",
+    "Rock 6 Falling",
+    "Cave Warp",
+    "Clear cave",
+    "Flower 1",
+    "Flower 2",
+    "Clear forest",
+    "Red 1",
+    "Blue 1",
+    "Red 2",
+    "Blue 2",
+    "Yellow 1",
+    "Yellow 2",
+    "Machine clear",
+    "Occasional bat",
+    "Usami Pixie",
+    "Cement slime",
+    "Tentagel",
+    "Rock devil",
+    "Wallai tribe",
+    "Ketaketake",
+    "Warp Mall",
+    "Breasts Cactus",
+    "Hundred caterpillar",
+    "Lotion tank",
+    "Mecha gakusha",
+    "Freeze Box",
+    "Karakuri Quaggata",
+    "Cleaning Lloyd",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "terms": {
+    "basic": [
+      "等级",
+      "Lv",
+      "HP",
+      "HP",
+      "MP",
+      "MP",
+      "欲求",
+      "欲求",
+      "经验值",
+      "EXP"
+    ],
+    "commands": [
+      "战斗",
+      "逃跑",
+      "攻击",
+      "防御",
+      "道具",
+      "技能",
+      "装备",
+      "状态",
+      "阵型",
+      "保存",
+      "结束游戏",
+      "设置",
+      "武器",
+      "防具",
+      "关键道具",
+      "装备",
+      "最佳装备",
+      "清除",
+      "新游戏",
+      "继续",
+      null,
+      "返回标题",
+      "取消",
+      null,
+      "购买",
+      "出售"
+    ],
+    "params": [
+      "最大HP",
+      "最大MP",
+      "攻击力",
+      "防御力",
+      "魔法攻击",
+      "魔法防御",
+      "速度",
+      "幸运",
+      "命中率",
+      "闪避率"
+    ],
+    "messages": {
+      "actionFailure": "对%1无效！",
+      "actorDamage": "%1受到了%2点伤害！",
+      "actorDrain": "%1的%3被吸收了%2点！",
+      "actorGain": "%1获得了%2点%3！",
+      "actorLoss": "%1失去了%2点%3！",
+      "actorNoDamage": "%1没有受到伤害！",
+      "actorNoHit": "未命中！%1没有受到伤害！",
+      "actorRecovery": "%1恢复了%2点%3！",
+      "alwaysDash": "始终奔跑",
+      "bgmVolume": "BGM音量",
+      "bgsVolume": "BGS音量",
+      "buffAdd": "%1的%2提升了！",
+      "buffRemove": "%1的%2恢复了！",
+      "commandRemember": "记忆指令",
+      "counterAttack": "%1发动了反击！",
+      "criticalToActor": "痛苦的一击！！",
+      "criticalToEnemy": "精彩的一击！！",
+      "debuffAdd": "%1的%2下降了！",
+      "defeat": "%1被击败了。",
+      "emerge": "%1出现了！",
+      "enemyDamage": "%1受到了%2点伤害！",
+      "enemyDrain": "%1的%3被吸收了%2点！",
+      "enemyGain": "%1获得了%2点%3！",
+      "enemyLoss": "%1失去了%2点%3！",
+      "enemyNoDamage": "%1没有受到伤害！",
+      "enemyNoHit": "未命中！%1没有受到伤害！",
+      "enemyRecovery": "%1恢复了%2点%3！",
+      "escapeFailure": "然而，她没能逃掉！",
+      "escapeStart": "%1开始逃跑！",
+      "evasion": "%1躲开了攻击！",
+      "expNext": "距下一级%1",
+      "expTotal": "当前%1",
+      "file": "存档",
+      "levelUp": "%1升到了%2%3！",
+      "loadMessage": "要读取哪个存档？",
+      "magicEvasion": "%1无效化了魔法！",
+      "magicReflection": "%1反弹了魔法！",
+      "meVolume": "ME音量",
+      "obtainExp": "获得了%1%2！",
+      "obtainGold": "获得了%1\\G！",
+      "obtainItem": "获得了%1！",
+      "obtainSkill": "学会了%1！",
+      "partyName": "%1的队伍",
+      "possession": "持有物",
+      "preemptive": "%1获得了先手！",
+      "saveMessage": "要保存到哪个存档？",
+      "seVolume": "SE音量",
+      "substitute": "%1保护了%2！",
+      "surprise": "%1被偷袭了！",
+      "useItem": "%1使用了%2！",
+      "victory": "%1取得了胜利！"
+    }
+  },
+  "testBattlers": [
+    {
+      "actorId": 1,
+      "equips": [
+        1,
+        1,
+        2,
+        3,
+        0
+      ],
+      "level": 12
+    },
+    {
+      "actorId": 2,
+      "equips": [
+        4,
+        0,
+        0,
+        0,
+        0
+      ],
+      "level": 12
+    },
+    {
+      "actorId": 3,
+      "equips": [
+        3,
+        3
+      ],
+      "level": 12
+    },
+    {
+      "actorId": 6,
+      "equips": [
+        6,
+        6
+      ],
+      "level": 12
+    }
+  ],
+  "testTroopId": 6,
+  "title1Name": "スペクタリア",
+  "title2Name": "",
+  "titleBgm": {
+    "name": "CT_Aldo",
+    "pan": 0,
+    "pitch": 100,
+    "volume": 90
+  },
+  "variables": [
+    "",
+    "Enemy ID",
+    "damage",
+    "Urination",
+    "Increase MP",
+    "Increased desire to urinate",
+    "story",
+    "probability",
+    "Map position X",
+    "Map position Y",
+    "Number of CG sheets",
+    "CG what piece",
+    "Number of turns",
+    "Fastest speed",
+    "Arlaune fastest",
+    "Gigantic Fastest",
+    "Boss HP",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "X",
+    "Y",
+    "Kocho X",
+    "Chichu Y",
+    "Ｘ",
+    "Ｙ",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "Number of characters",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "Occasional bat",
+    "Usami Pixie",
+    "Cement slime",
+    "Tentagel",
+    "Rock devil",
+    "Numonyushi",
+    "Wallai tribe",
+    "Ketaketake",
+    "Warp Mall",
+    "Breasts Cactus",
+    "Hundred caterpillar",
+    "Lotion tank",
+    "Mecha gakusha",
+    "Freeze Box",
+    "Karakuri Quaggata",
+    "Cleaning Lloyd",
+    "Gigantile",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "versionId": 89867854,
+  "victoryMe": {
+    "name": "Victory1",
+    "pan": 0,
+    "pitch": 100,
+    "volume": 90
+  },
+  "weaponTypes": [
+    "",
+    "Sword"
+  ],
+  "windowTone": [
+    0,
+    0,
+    51,
+    0
+  ],
+  "hasEncryptedImages": true,
+  "hasEncryptedAudio": false,
+  "encryptionKey": "e017326696de4306dd5f99e53f8d804a"
+}

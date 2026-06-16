@@ -1,73 +1,2723 @@
 [
-null,
-{"id":1,"atypeId":1,"description":"Ria's favourite clothes.\nAlso her main adventuring attire.","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":139,"name":"Black Jacket","note":"","params":[0,0,0,0,0,0,0,0],"price":300},
-{"id":2,"atypeId":1,"description":"【Tolerance: dark, earth, darkness】\n[Weak point: ice, light, silence, sleep, stun]","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0},{"code":11,"dataId":3,"value":1.5},{"code":11,"dataId":8,"value":1.5},{"code":11,"dataId":9,"value":0.5},{"code":11,"dataId":6,"value":0.5},{"code":13,"dataId":4,"value":1},{"code":13,"dataId":5,"value":0.5},{"code":13,"dataId":6,"value":1.5},{"code":13,"dataId":8,"value":1},{"code":13,"dataId":10,"value":1.5},{"code":13,"dataId":32,"value":1},{"code":13,"dataId":33,"value":2}],"iconIndex":0,"name":"Bat Body","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
-{"id":3,"atypeId":1,"description":"【Tolerance: light, poison, silence】\n【Weak point: Flame, Darkness, Sleep, Stun】 ☆ Easy to Avoid Attack","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0.2},{"code":11,"dataId":2,"value":1.5},{"code":11,"dataId":9,"value":1.5},{"code":11,"dataId":8,"value":0.5},{"code":13,"dataId":4,"value":0.5},{"code":13,"dataId":5,"value":1},{"code":13,"dataId":6,"value":0.5},{"code":13,"dataId":8,"value":1},{"code":13,"dataId":10,"value":2},{"code":13,"dataId":32,"value":1},{"code":13,"dataId":33,"value":1.5}],"iconIndex":0,"name":"Pixie Body","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
-{"id":4,"atypeId":1,"description":"【Resistance: earth, flame, poison, sleep】\n【Weak point: Ice, Silence】","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0},{"code":11,"dataId":3,"value":1.5},{"code":11,"dataId":6,"value":0.5},{"code":11,"dataId":2,"value":0.5},{"code":13,"dataId":4,"value":0},{"code":13,"dataId":5,"value":1},{"code":13,"dataId":6,"value":2},{"code":13,"dataId":8,"value":1},{"code":13,"dataId":10,"value":0.5},{"code":13,"dataId":32,"value":1},{"code":13,"dataId":33,"value":1}],"iconIndex":0,"name":"Cement body","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
-{"id":5,"atypeId":1,"description":"【Tolerance: ice, poison, stun】\n[Weak point: lightning, darkness, confusion, paralysis]","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0},{"code":11,"dataId":4,"value":1.5},{"code":11,"dataId":3,"value":0.5},{"code":13,"dataId":4,"value":0},{"code":13,"dataId":5,"value":2},{"code":13,"dataId":6,"value":1},{"code":13,"dataId":8,"value":1.5},{"code":13,"dataId":10,"value":1},{"code":13,"dataId":32,"value":1.5},{"code":13,"dataId":33,"value":0.5}],"iconIndex":0,"name":"Gel body","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
-{"id":6,"atypeId":1,"description":"【Resistance: dark, earth, poison, confusion, paralysis, stun】\n[Weak point: ice, light, darkness] ☆ Strong physical attack","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0},{"code":11,"dataId":9,"value":0.5},{"code":11,"dataId":6,"value":0.5},{"code":11,"dataId":8,"value":1.5},{"code":11,"dataId":3,"value":1.5},{"code":23,"dataId":6,"value":0.8},{"code":13,"dataId":4,"value":0},{"code":13,"dataId":5,"value":1.5},{"code":13,"dataId":6,"value":1},{"code":13,"dataId":8,"value":0.5},{"code":13,"dataId":10,"value":1},{"code":13,"dataId":32,"value":0},{"code":13,"dataId":33,"value":0.5}],"iconIndex":0,"name":"Rock body","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
-{"id":7,"atypeId":1,"description":"【Tolerance: flames, silence, confusion】\n【Weak point: ice, poison, sleeping】","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0},{"code":11,"dataId":3,"value":1.5},{"code":11,"dataId":2,"value":0.5},{"code":13,"dataId":4,"value":2},{"code":13,"dataId":5,"value":1},{"code":13,"dataId":6,"value":0.5},{"code":13,"dataId":8,"value":0.5},{"code":13,"dataId":10,"value":2},{"code":13,"dataId":32,"value":1},{"code":13,"dataId":33,"value":1}],"iconIndex":0,"name":"Wallai body","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
-{"id":8,"atypeId":1,"description":"【Tolerance: thunder, darkness, poison, sleep, paralysis】\n【Weak point: fire, earth, silence, stun】","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0},{"code":11,"dataId":2,"value":1.5},{"code":11,"dataId":6,"value":1.5},{"code":11,"dataId":4,"value":0.5},{"code":11,"dataId":9,"value":0.5},{"code":13,"dataId":4,"value":0},{"code":13,"dataId":5,"value":1},{"code":13,"dataId":6,"value":1.5},{"code":13,"dataId":8,"value":1},{"code":13,"dataId":10,"value":0.5},{"code":13,"dataId":32,"value":0.5},{"code":13,"dataId":33,"value":1.5}],"iconIndex":0,"name":"Ketaketa Ke Body","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
-{"id":9,"atypeId":1,"description":"【Tolerance: soil, darkness, stun】\n[Weak point: light, thunder, paralysis]","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0},{"code":11,"dataId":8,"value":1.5},{"code":11,"dataId":4,"value":1.5},{"code":11,"dataId":6,"value":0.5},{"code":13,"dataId":4,"value":1},{"code":13,"dataId":5,"value":0},{"code":13,"dataId":6,"value":1},{"code":13,"dataId":8,"value":1},{"code":13,"dataId":10,"value":1},{"code":13,"dataId":32,"value":1.5},{"code":13,"dataId":33,"value":0.5}],"iconIndex":0,"name":"Mall body","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
-{"id":10,"atypeId":1,"description":"【Resistance: ice, confusion, paralysis, stun】\n【Weak point: fire, poison, darkness】","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0},{"code":11,"dataId":2,"value":1.5},{"code":11,"dataId":3,"value":0.5},{"code":13,"dataId":4,"value":1.5},{"code":13,"dataId":5,"value":1.5},{"code":13,"dataId":6,"value":1},{"code":13,"dataId":8,"value":0.5},{"code":13,"dataId":10,"value":1},{"code":13,"dataId":32,"value":0.5},{"code":13,"dataId":33,"value":0.5}],"iconIndex":0,"name":"Cactus body","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
-{"id":11,"atypeId":1,"description":"【Tolerance: lightning, light, poison, paralysis】\n[Weak point: ice, darkness, sleeping]","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0},{"code":11,"dataId":3,"value":1.5},{"code":11,"dataId":4,"value":0.5},{"code":11,"dataId":8,"value":0.5},{"code":13,"dataId":4,"value":0.5},{"code":13,"dataId":5,"value":1.5},{"code":13,"dataId":6,"value":1},{"code":13,"dataId":8,"value":1},{"code":13,"dataId":10,"value":2},{"code":13,"dataId":32,"value":0.5},{"code":13,"dataId":33,"value":1}],"iconIndex":0,"name":"Wormwood body","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
-{"id":12,"atypeId":1,"description":"【Tolerance: lightning, poison, darkness, silence, sleeping】\n【Weak point: fire, ice, confusion】 ☆ resistant to physical attack","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0},{"code":11,"dataId":2,"value":1.5},{"code":11,"dataId":3,"value":1.5},{"code":11,"dataId":4,"value":0.5},{"code":13,"dataId":4,"value":0},{"code":13,"dataId":5,"value":0},{"code":13,"dataId":6,"value":0},{"code":13,"dataId":8,"value":2},{"code":13,"dataId":10,"value":0},{"code":13,"dataId":32,"value":1},{"code":13,"dataId":33,"value":1},{"code":23,"dataId":6,"value":0.8}],"iconIndex":0,"name":"Tank body","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
-{"id":13,"atypeId":1,"description":"【Tolerance: sleep, paralysis, stun】\n【Weak point: light, darkness】","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0},{"code":11,"dataId":8,"value":1.5},{"code":11,"dataId":9,"value":1.5},{"code":13,"dataId":4,"value":0},{"code":13,"dataId":5,"value":1},{"code":13,"dataId":6,"value":1.5},{"code":13,"dataId":8,"value":1},{"code":13,"dataId":10,"value":0},{"code":13,"dataId":32,"value":0.5},{"code":13,"dataId":33,"value":0.5}],"iconIndex":0,"name":"Mechanical gakusha body","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
-{"id":14,"atypeId":1,"description":"【Tolerance: ice, poison, sleep, stun】\n[Weak point: flame, paralysis]","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0},{"code":11,"dataId":2,"value":1.5},{"code":11,"dataId":3,"value":0.5},{"code":13,"dataId":4,"value":0.5},{"code":13,"dataId":5,"value":1},{"code":13,"dataId":6,"value":1},{"code":13,"dataId":8,"value":1},{"code":13,"dataId":10,"value":0.5},{"code":13,"dataId":32,"value":1.5},{"code":13,"dataId":33,"value":0.5}],"iconIndex":0,"name":"Freeze body","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
-{"id":15,"atypeId":1,"description":"【Tolerance: soil, poison, silence, confusion, sleep, stun】\n[Weak point: fire, thunder, paralysis]","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0},{"code":11,"dataId":4,"value":1.5},{"code":11,"dataId":2,"value":1.5},{"code":11,"dataId":6,"value":0.5},{"code":13,"dataId":4,"value":0},{"code":13,"dataId":5,"value":1},{"code":13,"dataId":6,"value":0.5},{"code":13,"dataId":8,"value":0.5},{"code":13,"dataId":10,"value":0.5},{"code":13,"dataId":32,"value":1.5},{"code":13,"dataId":33,"value":0.5}],"iconIndex":0,"name":"Stag beetle","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
-{"id":16,"atypeId":1,"description":"【Tolerance: darkness, ice, silence, paralysis】\n【Weak point: earth, light, darkness, confusion】","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0},{"code":11,"dataId":6,"value":1.5},{"code":11,"dataId":8,"value":1.5},{"code":11,"dataId":9,"value":0.5},{"code":11,"dataId":3,"value":0.5},{"code":13,"dataId":4,"value":1},{"code":13,"dataId":5,"value":1.5},{"code":13,"dataId":6,"value":0.5},{"code":13,"dataId":8,"value":1.5},{"code":13,"dataId":10,"value":1},{"code":13,"dataId":32,"value":0.5},{"code":13,"dataId":33,"value":1}],"iconIndex":0,"name":"Cleaning body","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
-{"id":17,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
-{"id":18,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
-{"id":19,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
-{"id":20,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
-{"id":21,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
-{"id":22,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
-{"id":23,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
-{"id":24,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
-{"id":25,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
-{"id":26,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
-{"id":27,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
-{"id":28,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
-{"id":29,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
-{"id":30,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
-{"id":31,"atypeId":1,"description":"Halves damage taken from fire attacks.","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0},{"code":11,"dataId":2,"value":0.5}],"iconIndex":145,"name":"Fire Resist","note":"","params":[0,0,0,0,0,0,0,0],"price":2000},
-{"id":32,"atypeId":1,"description":"Halves damage taken from ice attacks.","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0},{"code":11,"dataId":3,"value":0.5}],"iconIndex":145,"name":"Ice Resist","note":"","params":[0,0,0,0,0,0,0,0],"price":2000},
-{"id":33,"atypeId":1,"description":"Halves damage taken from lightning attacks.","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0},{"code":11,"dataId":4,"value":0.5}],"iconIndex":145,"name":"Lightning Resist","note":"","params":[0,0,0,0,0,0,0,0],"price":2000},
-{"id":34,"atypeId":1,"description":"Halves damage taken from water attacks.","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0},{"code":11,"dataId":5,"value":0.5}],"iconIndex":145,"name":"Water Resist","note":"","params":[0,0,0,0,0,0,0,0],"price":2000},
-{"id":35,"atypeId":1,"description":"Halves damage taken from earth attacks.","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0},{"code":11,"dataId":6,"value":0.5}],"iconIndex":145,"name":"Earth Resist","note":"","params":[0,0,0,0,0,0,0,0],"price":2000},
-{"id":36,"atypeId":1,"description":"Halves damage taken from wind attacks.","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0},{"code":11,"dataId":7,"value":0.5}],"iconIndex":145,"name":"Wind Resist","note":"","params":[0,0,0,0,0,0,0,0],"price":2000},
-{"id":37,"atypeId":1,"description":"Halves damage taken from light attacks.","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0},{"code":11,"dataId":8,"value":0.5}],"iconIndex":145,"name":"Light Resist","note":"","params":[0,0,0,0,0,0,0,0],"price":2000},
-{"id":38,"atypeId":1,"description":"Halves damage taken from dark attacks.","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0},{"code":11,"dataId":9,"value":0.5}],"iconIndex":145,"name":"Dark Resist","note":"","params":[0,0,0,0,0,0,0,0],"price":2000},
-{"id":39,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
-{"id":40,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
-{"id":41,"atypeId":1,"description":"Gain immunity to poison.","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0},{"code":14,"dataId":4,"value":1}],"iconIndex":145,"name":"Immunity Band","note":"","params":[0,0,0,0,0,0,0,0],"price":2000},
-{"id":42,"atypeId":1,"description":"Gain immunity to blind.","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0},{"code":14,"dataId":5,"value":1}],"iconIndex":145,"name":"Super Shades","note":"","params":[0,0,0,0,0,0,0,0],"price":2000},
-{"id":43,"atypeId":1,"description":"Gain immunity to silence.","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0},{"code":14,"dataId":6,"value":1}],"iconIndex":145,"name":"Speaker Bracelet","note":"","params":[0,0,0,0,0,0,0,0],"price":2000},
-{"id":44,"atypeId":1,"description":"Gain immunity to confusion.","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0},{"code":14,"dataId":8,"value":1}],"iconIndex":145,"name":"Calm Orb","note":"","params":[0,0,0,0,0,0,0,0],"price":2000},
-{"id":45,"atypeId":1,"description":"Gain immunity to sleep.","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0},{"code":14,"dataId":10,"value":1}],"iconIndex":145,"name":"Coffee Band","note":"","params":[0,0,0,0,0,0,0,0],"price":2000},
-{"id":46,"atypeId":1,"description":"Gain immunity to paralysis.","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0},{"code":14,"dataId":32,"value":1}],"iconIndex":145,"name":"Grounding Rod","note":"","params":[0,0,0,0,0,0,0,0],"price":2000},
-{"id":47,"atypeId":1,"description":"Gain immunity to stun.","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0},{"code":14,"dataId":33,"value":1}],"iconIndex":145,"name":"Sturdy Ring","note":"","params":[0,0,0,0,0,0,0,0],"price":2000},
-{"id":48,"atypeId":5,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
-{"id":49,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
-{"id":50,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
-{"id":51,"atypeId":1,"description":"Increases Speed by 10.","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":145,"name":"Swift Ring","note":"","params":[0,0,0,0,0,0,10,0],"price":2000},
-{"id":52,"atypeId":1,"description":"Increases Attack by 10.","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":145,"name":"Savage Ring","note":"","params":[0,0,10,0,0,0,0,0],"price":2000},
-{"id":53,"atypeId":1,"description":"Increases Defense by 10.","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":145,"name":"Heavy Ring","note":"","params":[0,0,0,10,0,0,0,0],"price":2000},
-{"id":54,"atypeId":1,"description":"Increases Magic Attack by 10.","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":145,"name":"Wizard's Ring","note":"","params":[0,0,0,0,10,0,0,0],"price":2000},
-{"id":55,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
-{"id":56,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
-{"id":57,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
-{"id":58,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
-{"id":59,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
-{"id":60,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
-{"id":61,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
-{"id":62,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
-{"id":63,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
-{"id":64,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
-{"id":65,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
-{"id":66,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
-{"id":67,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
-{"id":68,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
-{"id":69,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
-{"id":70,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0}
+  null,
+  {
+    "id": 1,
+    "atypeId": 1,
+    "description": "莉亚最喜欢的衣服。\n也是她主要的冒险装束。",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 139,
+    "name": "黑色夹克",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 300
+  },
+  {
+    "id": 2,
+    "atypeId": 1,
+    "description": "【耐性：暗、土、黑暗】\n【弱点：冰、光、沉默、睡眠、眩晕】",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 8,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 9,
+        "value": 0.5
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 0.5
+      },
+      {
+        "code": 13,
+        "dataId": 4,
+        "value": 1
+      },
+      {
+        "code": 13,
+        "dataId": 5,
+        "value": 0.5
+      },
+      {
+        "code": 13,
+        "dataId": 6,
+        "value": 1.5
+      },
+      {
+        "code": 13,
+        "dataId": 8,
+        "value": 1
+      },
+      {
+        "code": 13,
+        "dataId": 10,
+        "value": 1.5
+      },
+      {
+        "code": 13,
+        "dataId": 32,
+        "value": 1
+      },
+      {
+        "code": 13,
+        "dataId": 33,
+        "value": 2
+      }
+    ],
+    "iconIndex": 0,
+    "name": "蝙蝠之躯",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 3,
+    "atypeId": 1,
+    "description": "【耐性：光、毒、沉默】\n【弱点：火、黑暗、睡眠、眩晕】☆容易闪避攻击",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.2
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 9,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 8,
+        "value": 0.5
+      },
+      {
+        "code": 13,
+        "dataId": 4,
+        "value": 0.5
+      },
+      {
+        "code": 13,
+        "dataId": 5,
+        "value": 1
+      },
+      {
+        "code": 13,
+        "dataId": 6,
+        "value": 0.5
+      },
+      {
+        "code": 13,
+        "dataId": 8,
+        "value": 1
+      },
+      {
+        "code": 13,
+        "dataId": 10,
+        "value": 2
+      },
+      {
+        "code": 13,
+        "dataId": 32,
+        "value": 1
+      },
+      {
+        "code": 13,
+        "dataId": 33,
+        "value": 1.5
+      }
+    ],
+    "iconIndex": 0,
+    "name": "精灵之躯",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 4,
+    "atypeId": 1,
+    "description": "【耐性：土、火、毒、睡眠】\n【弱点：冰、沉默】",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 0.5
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 0.5
+      },
+      {
+        "code": 13,
+        "dataId": 4,
+        "value": 0
+      },
+      {
+        "code": 13,
+        "dataId": 5,
+        "value": 1
+      },
+      {
+        "code": 13,
+        "dataId": 6,
+        "value": 2
+      },
+      {
+        "code": 13,
+        "dataId": 8,
+        "value": 1
+      },
+      {
+        "code": 13,
+        "dataId": 10,
+        "value": 0.5
+      },
+      {
+        "code": 13,
+        "dataId": 32,
+        "value": 1
+      },
+      {
+        "code": 13,
+        "dataId": 33,
+        "value": 1
+      }
+    ],
+    "iconIndex": 0,
+    "name": "水泥之躯",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 5,
+    "atypeId": 1,
+    "description": "【耐性：冰、毒、眩晕】\n【弱点：雷、黑暗、混乱、麻痹】",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 0.5
+      },
+      {
+        "code": 13,
+        "dataId": 4,
+        "value": 0
+      },
+      {
+        "code": 13,
+        "dataId": 5,
+        "value": 2
+      },
+      {
+        "code": 13,
+        "dataId": 6,
+        "value": 1
+      },
+      {
+        "code": 13,
+        "dataId": 8,
+        "value": 1.5
+      },
+      {
+        "code": 13,
+        "dataId": 10,
+        "value": 1
+      },
+      {
+        "code": 13,
+        "dataId": 32,
+        "value": 1.5
+      },
+      {
+        "code": 13,
+        "dataId": 33,
+        "value": 0.5
+      }
+    ],
+    "iconIndex": 0,
+    "name": "胶体之躯",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 6,
+    "atypeId": 1,
+    "description": "【耐性：暗、土、毒、混乱、麻痹、眩晕】\n【弱点：冰、光、黑暗】☆强力物理攻击",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 11,
+        "dataId": 9,
+        "value": 0.5
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 0.5
+      },
+      {
+        "code": 11,
+        "dataId": 8,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 1.5
+      },
+      {
+        "code": 23,
+        "dataId": 6,
+        "value": 0.8
+      },
+      {
+        "code": 13,
+        "dataId": 4,
+        "value": 0
+      },
+      {
+        "code": 13,
+        "dataId": 5,
+        "value": 1.5
+      },
+      {
+        "code": 13,
+        "dataId": 6,
+        "value": 1
+      },
+      {
+        "code": 13,
+        "dataId": 8,
+        "value": 0.5
+      },
+      {
+        "code": 13,
+        "dataId": 10,
+        "value": 1
+      },
+      {
+        "code": 13,
+        "dataId": 32,
+        "value": 0
+      },
+      {
+        "code": 13,
+        "dataId": 33,
+        "value": 0.5
+      }
+    ],
+    "iconIndex": 0,
+    "name": "岩石之躯",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 7,
+    "atypeId": 1,
+    "description": "【耐性：火、沉默、混乱】\n【弱点：冰、毒、睡眠】",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 0.5
+      },
+      {
+        "code": 13,
+        "dataId": 4,
+        "value": 2
+      },
+      {
+        "code": 13,
+        "dataId": 5,
+        "value": 1
+      },
+      {
+        "code": 13,
+        "dataId": 6,
+        "value": 0.5
+      },
+      {
+        "code": 13,
+        "dataId": 8,
+        "value": 0.5
+      },
+      {
+        "code": 13,
+        "dataId": 10,
+        "value": 2
+      },
+      {
+        "code": 13,
+        "dataId": 32,
+        "value": 1
+      },
+      {
+        "code": 13,
+        "dataId": 33,
+        "value": 1
+      }
+    ],
+    "iconIndex": 0,
+    "name": "瓦莱之躯",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 8,
+    "atypeId": 1,
+    "description": "【耐性：雷、黑暗、毒、睡眠、麻痹】\n【弱点：火、土、沉默、眩晕】",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 0.5
+      },
+      {
+        "code": 11,
+        "dataId": 9,
+        "value": 0.5
+      },
+      {
+        "code": 13,
+        "dataId": 4,
+        "value": 0
+      },
+      {
+        "code": 13,
+        "dataId": 5,
+        "value": 1
+      },
+      {
+        "code": 13,
+        "dataId": 6,
+        "value": 1.5
+      },
+      {
+        "code": 13,
+        "dataId": 8,
+        "value": 1
+      },
+      {
+        "code": 13,
+        "dataId": 10,
+        "value": 0.5
+      },
+      {
+        "code": 13,
+        "dataId": 32,
+        "value": 0.5
+      },
+      {
+        "code": 13,
+        "dataId": 33,
+        "value": 1.5
+      }
+    ],
+    "iconIndex": 0,
+    "name": "克塔克之躯",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 9,
+    "atypeId": 1,
+    "description": "【耐性：土、黑暗、眩晕】\n【弱点：光、雷、麻痹】",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 11,
+        "dataId": 8,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 0.5
+      },
+      {
+        "code": 13,
+        "dataId": 4,
+        "value": 1
+      },
+      {
+        "code": 13,
+        "dataId": 5,
+        "value": 0
+      },
+      {
+        "code": 13,
+        "dataId": 6,
+        "value": 1
+      },
+      {
+        "code": 13,
+        "dataId": 8,
+        "value": 1
+      },
+      {
+        "code": 13,
+        "dataId": 10,
+        "value": 1
+      },
+      {
+        "code": 13,
+        "dataId": 32,
+        "value": 1.5
+      },
+      {
+        "code": 13,
+        "dataId": 33,
+        "value": 0.5
+      }
+    ],
+    "iconIndex": 0,
+    "name": "鼹鼠之躯",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 10,
+    "atypeId": 1,
+    "description": "【耐性：冰、混乱、麻痹、眩晕】\n【弱点：火、毒、黑暗】",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 0.5
+      },
+      {
+        "code": 13,
+        "dataId": 4,
+        "value": 1.5
+      },
+      {
+        "code": 13,
+        "dataId": 5,
+        "value": 1.5
+      },
+      {
+        "code": 13,
+        "dataId": 6,
+        "value": 1
+      },
+      {
+        "code": 13,
+        "dataId": 8,
+        "value": 0.5
+      },
+      {
+        "code": 13,
+        "dataId": 10,
+        "value": 1
+      },
+      {
+        "code": 13,
+        "dataId": 32,
+        "value": 0.5
+      },
+      {
+        "code": 13,
+        "dataId": 33,
+        "value": 0.5
+      }
+    ],
+    "iconIndex": 0,
+    "name": "仙人掌之躯",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 11,
+    "atypeId": 1,
+    "description": "【耐性：雷、光、毒、麻痹】\n【弱点：冰、黑暗、睡眠】",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 0.5
+      },
+      {
+        "code": 11,
+        "dataId": 8,
+        "value": 0.5
+      },
+      {
+        "code": 13,
+        "dataId": 4,
+        "value": 0.5
+      },
+      {
+        "code": 13,
+        "dataId": 5,
+        "value": 1.5
+      },
+      {
+        "code": 13,
+        "dataId": 6,
+        "value": 1
+      },
+      {
+        "code": 13,
+        "dataId": 8,
+        "value": 1
+      },
+      {
+        "code": 13,
+        "dataId": 10,
+        "value": 2
+      },
+      {
+        "code": 13,
+        "dataId": 32,
+        "value": 0.5
+      },
+      {
+        "code": 13,
+        "dataId": 33,
+        "value": 1
+      }
+    ],
+    "iconIndex": 0,
+    "name": "毛虫之躯",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 12,
+    "atypeId": 1,
+    "description": "【耐性：雷、毒、黑暗、沉默、睡眠】\n【弱点：火、冰、混乱】☆耐物理攻击",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 0.5
+      },
+      {
+        "code": 13,
+        "dataId": 4,
+        "value": 0
+      },
+      {
+        "code": 13,
+        "dataId": 5,
+        "value": 0
+      },
+      {
+        "code": 13,
+        "dataId": 6,
+        "value": 0
+      },
+      {
+        "code": 13,
+        "dataId": 8,
+        "value": 2
+      },
+      {
+        "code": 13,
+        "dataId": 10,
+        "value": 0
+      },
+      {
+        "code": 13,
+        "dataId": 32,
+        "value": 1
+      },
+      {
+        "code": 13,
+        "dataId": 33,
+        "value": 1
+      },
+      {
+        "code": 23,
+        "dataId": 6,
+        "value": 0.8
+      }
+    ],
+    "iconIndex": 0,
+    "name": "坦克之躯",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 13,
+    "atypeId": 1,
+    "description": "【耐性：睡眠、麻痹、眩晕】\n【弱点：光、黑暗】",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 11,
+        "dataId": 8,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 9,
+        "value": 1.5
+      },
+      {
+        "code": 13,
+        "dataId": 4,
+        "value": 0
+      },
+      {
+        "code": 13,
+        "dataId": 5,
+        "value": 1
+      },
+      {
+        "code": 13,
+        "dataId": 6,
+        "value": 1.5
+      },
+      {
+        "code": 13,
+        "dataId": 8,
+        "value": 1
+      },
+      {
+        "code": 13,
+        "dataId": 10,
+        "value": 0
+      },
+      {
+        "code": 13,
+        "dataId": 32,
+        "value": 0.5
+      },
+      {
+        "code": 13,
+        "dataId": 33,
+        "value": 0.5
+      }
+    ],
+    "iconIndex": 0,
+    "name": "机械学士之躯",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 14,
+    "atypeId": 1,
+    "description": "【耐性：冰、毒、睡眠、眩晕】\n【弱点：火、麻痹】",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 0.5
+      },
+      {
+        "code": 13,
+        "dataId": 4,
+        "value": 0.5
+      },
+      {
+        "code": 13,
+        "dataId": 5,
+        "value": 1
+      },
+      {
+        "code": 13,
+        "dataId": 6,
+        "value": 1
+      },
+      {
+        "code": 13,
+        "dataId": 8,
+        "value": 1
+      },
+      {
+        "code": 13,
+        "dataId": 10,
+        "value": 0.5
+      },
+      {
+        "code": 13,
+        "dataId": 32,
+        "value": 1.5
+      },
+      {
+        "code": 13,
+        "dataId": 33,
+        "value": 0.5
+      }
+    ],
+    "iconIndex": 0,
+    "name": "冰冻之躯",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 15,
+    "atypeId": 1,
+    "description": "【耐性：土、毒、沉默、混乱、睡眠、眩晕】\n【弱点：火、雷、麻痹】",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 0.5
+      },
+      {
+        "code": 13,
+        "dataId": 4,
+        "value": 0
+      },
+      {
+        "code": 13,
+        "dataId": 5,
+        "value": 1
+      },
+      {
+        "code": 13,
+        "dataId": 6,
+        "value": 0.5
+      },
+      {
+        "code": 13,
+        "dataId": 8,
+        "value": 0.5
+      },
+      {
+        "code": 13,
+        "dataId": 10,
+        "value": 0.5
+      },
+      {
+        "code": 13,
+        "dataId": 32,
+        "value": 1.5
+      },
+      {
+        "code": 13,
+        "dataId": 33,
+        "value": 0.5
+      }
+    ],
+    "iconIndex": 0,
+    "name": "锹甲虫之躯",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 16,
+    "atypeId": 1,
+    "description": "【耐性：暗、冰、沉默、麻痹】\n【弱点：土、光、黑暗、混乱】",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 8,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 9,
+        "value": 0.5
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 0.5
+      },
+      {
+        "code": 13,
+        "dataId": 4,
+        "value": 1
+      },
+      {
+        "code": 13,
+        "dataId": 5,
+        "value": 1.5
+      },
+      {
+        "code": 13,
+        "dataId": 6,
+        "value": 0.5
+      },
+      {
+        "code": 13,
+        "dataId": 8,
+        "value": 1.5
+      },
+      {
+        "code": 13,
+        "dataId": 10,
+        "value": 1
+      },
+      {
+        "code": 13,
+        "dataId": 32,
+        "value": 0.5
+      },
+      {
+        "code": 13,
+        "dataId": 33,
+        "value": 1
+      }
+    ],
+    "iconIndex": 0,
+    "name": "清洁之躯",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 17,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 18,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 19,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 20,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 21,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 22,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 23,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 24,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 25,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 26,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 27,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 28,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 29,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 30,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 31,
+    "atypeId": 1,
+    "description": "将受到的火属性伤害减半。",
+    "etypeId": 3,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 0.5
+      }
+    ],
+    "iconIndex": 145,
+    "name": "火抗护符",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 2000
+  },
+  {
+    "id": 32,
+    "atypeId": 1,
+    "description": "将受到的冰属性伤害减半。",
+    "etypeId": 3,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 0.5
+      }
+    ],
+    "iconIndex": 145,
+    "name": "冰抗护符",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 2000
+  },
+  {
+    "id": 33,
+    "atypeId": 1,
+    "description": "将受到的雷属性伤害减半。",
+    "etypeId": 3,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 0.5
+      }
+    ],
+    "iconIndex": 145,
+    "name": "雷抗护符",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 2000
+  },
+  {
+    "id": 34,
+    "atypeId": 1,
+    "description": "将受到的水属性伤害减半。",
+    "etypeId": 3,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 0.5
+      }
+    ],
+    "iconIndex": 145,
+    "name": "水抗护符",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 2000
+  },
+  {
+    "id": 35,
+    "atypeId": 1,
+    "description": "将受到的地属性伤害减半。",
+    "etypeId": 3,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 0.5
+      }
+    ],
+    "iconIndex": 145,
+    "name": "地抗护符",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 2000
+  },
+  {
+    "id": 36,
+    "atypeId": 1,
+    "description": "将受到的风属性伤害减半。",
+    "etypeId": 3,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 11,
+        "dataId": 7,
+        "value": 0.5
+      }
+    ],
+    "iconIndex": 145,
+    "name": "风抗护符",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 2000
+  },
+  {
+    "id": 37,
+    "atypeId": 1,
+    "description": "将受到的光属性伤害减半。",
+    "etypeId": 3,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 11,
+        "dataId": 8,
+        "value": 0.5
+      }
+    ],
+    "iconIndex": 145,
+    "name": "光抗护符",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 2000
+  },
+  {
+    "id": 38,
+    "atypeId": 1,
+    "description": "将受到的暗属性伤害减半。",
+    "etypeId": 3,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 11,
+        "dataId": 9,
+        "value": 0.5
+      }
+    ],
+    "iconIndex": 145,
+    "name": "暗抗护符",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 2000
+  },
+  {
+    "id": 39,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 40,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 41,
+    "atypeId": 1,
+    "description": "获得毒免疫。",
+    "etypeId": 3,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 14,
+        "dataId": 4,
+        "value": 1
+      }
+    ],
+    "iconIndex": 145,
+    "name": "免疫头带",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 2000
+  },
+  {
+    "id": 42,
+    "atypeId": 1,
+    "description": "获得致盲免疫。",
+    "etypeId": 3,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 14,
+        "dataId": 5,
+        "value": 1
+      }
+    ],
+    "iconIndex": 145,
+    "name": "超级墨镜",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 2000
+  },
+  {
+    "id": 43,
+    "atypeId": 1,
+    "description": "获得沉默免疫。",
+    "etypeId": 3,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 14,
+        "dataId": 6,
+        "value": 1
+      }
+    ],
+    "iconIndex": 145,
+    "name": "扩音手镯",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 2000
+  },
+  {
+    "id": 44,
+    "atypeId": 1,
+    "description": "获得混乱免疫。",
+    "etypeId": 3,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 14,
+        "dataId": 8,
+        "value": 1
+      }
+    ],
+    "iconIndex": 145,
+    "name": "冷静宝珠",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 2000
+  },
+  {
+    "id": 45,
+    "atypeId": 1,
+    "description": "获得睡眠免疫。",
+    "etypeId": 3,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 14,
+        "dataId": 10,
+        "value": 1
+      }
+    ],
+    "iconIndex": 145,
+    "name": "咖啡头带",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 2000
+  },
+  {
+    "id": 46,
+    "atypeId": 1,
+    "description": "获得麻痹免疫。",
+    "etypeId": 3,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 14,
+        "dataId": 32,
+        "value": 1
+      }
+    ],
+    "iconIndex": 145,
+    "name": "避雷棒",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 2000
+  },
+  {
+    "id": 47,
+    "atypeId": 1,
+    "description": "获得眩晕免疫。",
+    "etypeId": 3,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 14,
+        "dataId": 33,
+        "value": 1
+      }
+    ],
+    "iconIndex": 145,
+    "name": "坚固戒指",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 2000
+  },
+  {
+    "id": 48,
+    "atypeId": 5,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 49,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 50,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 51,
+    "atypeId": 1,
+    "description": "速度增加10。",
+    "etypeId": 3,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 145,
+    "name": "疾风戒指",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      10,
+      0
+    ],
+    "price": 2000
+  },
+  {
+    "id": 52,
+    "atypeId": 1,
+    "description": "攻击力增加10。",
+    "etypeId": 3,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 145,
+    "name": "猛攻戒指",
+    "note": "",
+    "params": [
+      0,
+      0,
+      10,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 2000
+  },
+  {
+    "id": 53,
+    "atypeId": 1,
+    "description": "防御力增加10。",
+    "etypeId": 3,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 145,
+    "name": "重甲戒指",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      10,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 2000
+  },
+  {
+    "id": 54,
+    "atypeId": 1,
+    "description": "魔法攻击增加10。",
+    "etypeId": 3,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 145,
+    "name": "法师之戒",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      10,
+      0,
+      0,
+      0
+    ],
+    "price": 2000
+  },
+  {
+    "id": 55,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 56,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 57,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 58,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 59,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 60,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 61,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 62,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 63,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 64,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 65,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 66,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 67,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 68,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 69,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 70,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  }
 ]

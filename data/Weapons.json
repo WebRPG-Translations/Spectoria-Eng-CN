@@ -1,23 +1,678 @@
 [
-null,
-{"id":1,"animationId":6,"description":"Suspended two-sword.\nIt is light and easy to use.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":123,"name":"Twin saber","note":"","params":[0,0,0,0,0,0,0,0],"price":500,"wtypeId":1},
-{"id":2,"animationId":16,"description":"A sharp tusk of occasional bat.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"Bat thighfang","note":"","params":[0,0,0,0,0,0,0,0],"price":500,"wtypeId":1},
-{"id":3,"animationId":1,"description":"【Light attribute】 Small hands of Usami Pixie.","etypeId":1,"traits":[{"code":31,"dataId":8,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"Small hand","note":"","params":[0,0,0,0,0,0,0,0],"price":500,"wtypeId":1},
-{"id":4,"animationId":1,"description":"A hammer of a tailor made from cement.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"Cement hammer","note":"","params":[0,0,0,0,0,0,0,0],"price":500,"wtypeId":1},
-{"id":5,"animationId":1,"description":"A good tentacle.\nRarely lower the opponent's speed.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0},{"code":32,"dataId":19,"value":0.3}],"iconIndex":0,"name":"Tenta Whip","note":"","params":[0,0,0,0,0,0,0,0],"price":500,"wtypeId":1},
-{"id":6,"animationId":1,"description":"Robust arm made of rock.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"Rock hand","note":"","params":[0,0,0,0,0,0,0,0],"price":500,"wtypeId":1},
-{"id":7,"animationId":1,"description":"A big brush. It can also be used for tickling.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"Big brush","note":"","params":[0,0,0,0,0,0,0,0],"price":500,"wtypeId":1},
-{"id":8,"animationId":1,"description":"A big fist mushroom with fists.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"Big Mushrooms","note":"","params":[0,0,0,0,0,0,0,0],"price":500,"wtypeId":1},
-{"id":9,"animationId":16,"description":"Sharp steel claws.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"Iron claw","note":"","params":[0,0,0,0,0,0,0,0],"price":500,"wtypeId":1},
-{"id":10,"animationId":1,"description":"The big arm the thorn grows.\nRarely poison your opponent.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0},{"code":32,"dataId":4,"value":0.3}],"iconIndex":0,"name":"Cactus arm","note":"","params":[0,0,0,0,0,0,0,0],"price":500,"wtypeId":1},
-{"id":11,"animationId":1,"description":"Arms that grew a lot. Actually there is no 100.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"A hundred","note":"","params":[0,0,0,0,0,0,0,0],"price":500,"wtypeId":1},
-{"id":12,"animationId":1,"description":"Magic hand which is somewhat slimy.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"Lotion hand","note":"","params":[0,0,0,0,0,0,0,0],"price":500,"wtypeId":1},
-{"id":13,"animationId":11,"description":"Magical pen for research.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"Magic pen","note":"","params":[0,0,0,0,0,0,0,0],"price":500,"wtypeId":1},
-{"id":14,"animationId":4,"description":"[Ice attribute] A nozzle that emits cold air.","etypeId":1,"traits":[{"code":31,"dataId":3,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"Ice nozzle","note":"","params":[0,0,0,0,0,0,0,0],"price":500,"wtypeId":1},
-{"id":15,"animationId":16,"description":"A sharp tusk made of steel.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"Machine Fang","note":"","params":[0,0,0,0,0,0,0,0],"price":500,"wtypeId":1},
-{"id":16,"animationId":1,"description":"Bubbly covered arm.\nRarely lower the attack power of the opponent.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0},{"code":32,"dataId":17,"value":0.3}],"iconIndex":0,"name":"Powered Arm","note":"","params":[0,0,0,0,0,0,0,0],"price":500,"wtypeId":1},
-{"id":17,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
-{"id":18,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
-{"id":19,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
-{"id":20,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0}
+  null,
+  {
+    "id": 1,
+    "animationId": 6,
+    "description": "悬挂式双剑。\n轻巧易用。",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      }
+    ],
+    "iconIndex": 123,
+    "name": "双剑",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 500,
+    "wtypeId": 1
+  },
+  {
+    "id": 2,
+    "animationId": 16,
+    "description": "偶尔蝙蝠的尖锐獠牙。",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "蝙蝠獠牙",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 500,
+    "wtypeId": 1
+  },
+  {
+    "id": 3,
+    "animationId": 1,
+    "description": "【光属性】宇佐美精灵的小手。",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 8,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "小手",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 500,
+    "wtypeId": 1
+  },
+  {
+    "id": 4,
+    "animationId": 1,
+    "description": "用水泥定制制作的锤子。",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "水泥锤",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 500,
+    "wtypeId": 1
+  },
+  {
+    "id": 5,
+    "animationId": 1,
+    "description": "优质的触手。\n偶尔降低对手速度。",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 19,
+        "value": 0.3
+      }
+    ],
+    "iconIndex": 0,
+    "name": "触手鞭",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 500,
+    "wtypeId": 1
+  },
+  {
+    "id": 6,
+    "animationId": 1,
+    "description": "用岩石制成的坚固手臂。",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "岩石手",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 500,
+    "wtypeId": 1
+  },
+  {
+    "id": 7,
+    "animationId": 1,
+    "description": "大刷子。也可以用来挠痒痒。",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "大刷子",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 500,
+    "wtypeId": 1
+  },
+  {
+    "id": 8,
+    "animationId": 1,
+    "description": "长着拳头的大蘑菇。",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "大蘑菇拳",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 500,
+    "wtypeId": 1
+  },
+  {
+    "id": 9,
+    "animationId": 16,
+    "description": "锋利的钢铁利爪。",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "铁爪",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 500,
+    "wtypeId": 1
+  },
+  {
+    "id": 10,
+    "animationId": 1,
+    "description": "长满荆棘的巨大手臂。\n偶尔使对手中毒。",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 4,
+        "value": 0.3
+      }
+    ],
+    "iconIndex": 0,
+    "name": "仙人掌臂",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 500,
+    "wtypeId": 1
+  },
+  {
+    "id": 11,
+    "animationId": 1,
+    "description": "长了很多的手臂。实际上没有100条。",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "百足臂",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 500,
+    "wtypeId": 1
+  },
+  {
+    "id": 12,
+    "animationId": 1,
+    "description": "有些滑溜的魔法手。",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "润滑手",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 500,
+    "wtypeId": 1
+  },
+  {
+    "id": 13,
+    "animationId": 11,
+    "description": "用于研究的魔法笔。",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "魔法笔",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 500,
+    "wtypeId": 1
+  },
+  {
+    "id": 14,
+    "animationId": 4,
+    "description": "【冰属性】喷出冷气的喷嘴。",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 3,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "冰冻喷嘴",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 500,
+    "wtypeId": 1
+  },
+  {
+    "id": 15,
+    "animationId": 16,
+    "description": "钢铁制成的尖锐獠牙。",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "机械利牙",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 500,
+    "wtypeId": 1
+  },
+  {
+    "id": 16,
+    "animationId": 1,
+    "description": "覆盖着泡泡的手臂。\n偶尔降低对手的攻击力。",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 17,
+        "value": 0.3
+      }
+    ],
+    "iconIndex": 0,
+    "name": "动力臂",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 500,
+    "wtypeId": 1
+  },
+  {
+    "id": 17,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 18,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 19,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 20,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0,
+    "wtypeId": 0
+  }
 ]

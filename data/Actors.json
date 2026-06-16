@@ -1,19 +1,504 @@
 [
-null,
-{"id":1,"battlerName":"","characterIndex":0,"characterName":"リア","classId":1,"equips":[1,1],"faceIndex":0,"faceName":"リア01","traits":[{"code":62,"dataId":3,"value":1},{"code":53,"dataId":1,"value":1},{"code":53,"dataId":2,"value":1}],"initialLevel":1,"maxLevel":50,"name":"Ria","nickname":"","note":"","profile":"A young girl who travelling the world in search of\nrare treasure."},
-{"id":2,"battlerName":"","characterIndex":0,"characterName":"モンスターアイコン０１","classId":2,"equips":[2,2],"faceIndex":0,"faceName":"モンスター０１","traits":[{"code":53,"dataId":1,"value":1},{"code":53,"dataId":2,"value":1}],"initialLevel":1,"maxLevel":20,"name":"Tama Bat","nickname":"","note":"","profile":"A bat demon with a cute round body.\nCan use darkness attacks."},
-{"id":3,"battlerName":"","characterIndex":1,"characterName":"モンスターアイコン０１","classId":5,"equips":[3,3],"faceIndex":1,"faceName":"モンスター０１","traits":[{"code":53,"dataId":1,"value":1},{"code":53,"dataId":2,"value":1}],"initialLevel":1,"maxLevel":20,"name":"Usami Pixie","nickname":"","note":"","profile":"A fairy who loves rabbit ears.\nCan cast recovery and light magic."},
-{"id":4,"battlerName":"","characterIndex":2,"characterName":"モンスターアイコン０１","classId":8,"equips":[4,4],"faceIndex":2,"faceName":"モンスター０１","traits":[{"code":53,"dataId":1,"value":1},{"code":53,"dataId":2,"value":1}],"initialLevel":3,"maxLevel":20,"name":"Cement Slime","nickname":"","note":"","profile":"A slime monster made of the earth.\nCan cast earth magic."},
-{"id":5,"battlerName":"","characterIndex":3,"characterName":"モンスターアイコン０１","classId":11,"equips":[5,5],"faceIndex":3,"faceName":"モンスター０１","traits":[{"code":53,"dataId":1,"value":1},{"code":53,"dataId":2,"value":1}],"initialLevel":3,"maxLevel":20,"name":"Tentagel","nickname":"","note":"","profile":"A synthetic demon made of slime and tentacles.\nBesides ice magic, it can handle condition abnormalities."},
-{"id":6,"battlerName":"","characterIndex":4,"characterName":"モンスターアイコン０１","classId":14,"equips":[6,6],"faceIndex":4,"faceName":"モンスター０１","traits":[{"code":53,"dataId":1,"value":1},{"code":53,"dataId":2,"value":1}],"initialLevel":5,"maxLevel":20,"name":"Rock Devil","nickname":"","note":"","profile":"A powerful demon made of rock.\nIt has skills that can shield allies."},
-{"id":7,"battlerName":"","characterIndex":5,"characterName":"モンスターアイコン０１","classId":16,"equips":[7,7],"faceIndex":5,"faceName":"モンスター０１","traits":[{"code":53,"dataId":1,"value":1},{"code":53,"dataId":2,"value":1}],"initialLevel":7,"maxLevel":20,"name":"Wallai tribe","nickname":"","note":"","profile":"A strange family that always laughs.\nHandle fire and recovery magic."},
-{"id":8,"battlerName":"","characterIndex":6,"characterName":"モンスターアイコン０１","classId":18,"equips":[8,8],"faceIndex":6,"faceName":"モンスター０１","traits":[{"code":53,"dataId":1,"value":1},{"code":53,"dataId":2,"value":1}],"initialLevel":7,"maxLevel":20,"name":"Kektake Mushroom","nickname":"","note":"","profile":"A big mushroom demon.\nCan use skills that inflict status change."},
-{"id":9,"battlerName":"","characterIndex":7,"characterName":"モンスターアイコン０１","classId":20,"equips":[9,9],"faceIndex":7,"faceName":"モンスター０１","traits":[{"code":53,"dataId":1,"value":1},{"code":53,"dataId":2,"value":1}],"initialLevel":9,"maxLevel":20,"name":"Warp Mole","nickname":"","note":"","profile":"A mole demon that can create warp holes.\nGood at stunning foes."},
-{"id":10,"battlerName":"","characterIndex":0,"characterName":"モンスターアイコン０２","classId":22,"equips":[10,10],"faceIndex":0,"faceName":"モンスター０２","traits":[{"code":53,"dataId":1,"value":1},{"code":53,"dataId":2,"value":1}],"initialLevel":11,"maxLevel":20,"name":"Busty Cactus","nickname":"","note":"","profile":"A cactus with large boobs for some reason.\nGood at attacking with her boobs..."},
-{"id":11,"battlerName":"","characterIndex":1,"characterName":"モンスターアイコン０２","classId":24,"equips":[11,11],"faceIndex":1,"faceName":"モンスター０２","traits":[{"code":53,"dataId":1,"value":1},{"code":53,"dataId":2,"value":1}],"initialLevel":11,"maxLevel":20,"name":"Centapillar","nickname":"","note":"","profile":"Caterpillar demon with countless arms.\nEffective at multi-hit attacks."},
-{"id":12,"battlerName":"","characterIndex":2,"characterName":"モンスターアイコン０２","classId":26,"equips":[12,12],"faceIndex":3,"faceName":"モンスター０２","traits":[{"code":53,"dataId":1,"value":1},{"code":53,"dataId":2,"value":1}],"initialLevel":12,"maxLevel":20,"name":"Lotion Tank","nickname":"","note":"","profile":"A tank filld with slippery lotion.\nEffective at punch and thunder attacks."},
-{"id":13,"battlerName":"","characterIndex":3,"characterName":"モンスターアイコン０２","classId":28,"equips":[13,13],"faceIndex":4,"faceName":"モンスター０２","traits":[{"code":53,"dataId":1,"value":1},{"code":53,"dataId":2,"value":1}],"initialLevel":12,"maxLevel":20,"name":"Mecha Scribe","nickname":"","note":"","profile":"A robot scientist who continues to study magic.\nUses magic of all the elements."},
-{"id":14,"battlerName":"","characterIndex":4,"characterName":"モンスターアイコン０２","classId":30,"equips":[14,14],"faceIndex":5,"faceName":"モンスター０２","traits":[{"code":53,"dataId":1,"value":1},{"code":53,"dataId":2,"value":1}],"initialLevel":14,"maxLevel":20,"name":"Freezie Box","nickname":"","note":"","profile":"A monster made from a refrigerator.\nSkilled at using ice and sleep skills."},
-{"id":15,"battlerName":"","characterIndex":5,"characterName":"モンスターアイコン０２","classId":32,"equips":[15,15],"faceIndex":6,"faceName":"モンスター０２","traits":[{"code":53,"dataId":1,"value":1},{"code":53,"dataId":2,"value":1}],"initialLevel":16,"maxLevel":20,"name":"Karakuri Beetle","nickname":"","note":"","profile":"A strange beetle machine.\nHas strong slashing and laser attacks."},
-{"id":16,"battlerName":"","characterIndex":6,"characterName":"モンスターアイコン０２","classId":34,"equips":[16,16],"faceIndex":7,"faceName":"モンスター０２","traits":[{"code":53,"dataId":1,"value":1},{"code":53,"dataId":2,"value":1}],"initialLevel":16,"maxLevel":20,"name":"Cleaning Doll","nickname":"","note":"","profile":"A machine girl made to wash people.\nSkilled at recovery and dark magic."}
+  null,
+  {
+    "id": 1,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "リア",
+    "classId": 1,
+    "equips": [
+      1,
+      1
+    ],
+    "faceIndex": 0,
+    "faceName": "リア01",
+    "traits": [
+      {
+        "code": 62,
+        "dataId": 3,
+        "value": 1
+      },
+      {
+        "code": 53,
+        "dataId": 1,
+        "value": 1
+      },
+      {
+        "code": 53,
+        "dataId": 2,
+        "value": 1
+      }
+    ],
+    "initialLevel": 1,
+    "maxLevel": 50,
+    "name": "莉亚",
+    "nickname": "",
+    "note": "",
+    "profile": "A young girl who travelling the world in search of\nrare treasure."
+  },
+  {
+    "id": 2,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "モンスターアイコン０１",
+    "classId": 2,
+    "equips": [
+      2,
+      2
+    ],
+    "faceIndex": 0,
+    "faceName": "モンスター０１",
+    "traits": [
+      {
+        "code": 53,
+        "dataId": 1,
+        "value": 1
+      },
+      {
+        "code": 53,
+        "dataId": 2,
+        "value": 1
+      }
+    ],
+    "initialLevel": 1,
+    "maxLevel": 20,
+    "name": "玉蝙蝠",
+    "nickname": "",
+    "note": "",
+    "profile": "A bat demon with a cute round body.\nCan use darkness attacks."
+  },
+  {
+    "id": 3,
+    "battlerName": "",
+    "characterIndex": 1,
+    "characterName": "モンスターアイコン０１",
+    "classId": 5,
+    "equips": [
+      3,
+      3
+    ],
+    "faceIndex": 1,
+    "faceName": "モンスター０１",
+    "traits": [
+      {
+        "code": 53,
+        "dataId": 1,
+        "value": 1
+      },
+      {
+        "code": 53,
+        "dataId": 2,
+        "value": 1
+      }
+    ],
+    "initialLevel": 1,
+    "maxLevel": 20,
+    "name": "宇佐美精灵",
+    "nickname": "",
+    "note": "",
+    "profile": "A fairy who loves rabbit ears.\nCan cast recovery and light magic."
+  },
+  {
+    "id": 4,
+    "battlerName": "",
+    "characterIndex": 2,
+    "characterName": "モンスターアイコン０１",
+    "classId": 8,
+    "equips": [
+      4,
+      4
+    ],
+    "faceIndex": 2,
+    "faceName": "モンスター０１",
+    "traits": [
+      {
+        "code": 53,
+        "dataId": 1,
+        "value": 1
+      },
+      {
+        "code": 53,
+        "dataId": 2,
+        "value": 1
+      }
+    ],
+    "initialLevel": 3,
+    "maxLevel": 20,
+    "name": "水泥史莱姆",
+    "nickname": "",
+    "note": "",
+    "profile": "A slime monster made of the earth.\nCan cast earth magic."
+  },
+  {
+    "id": 5,
+    "battlerName": "",
+    "characterIndex": 3,
+    "characterName": "モンスターアイコン０１",
+    "classId": 11,
+    "equips": [
+      5,
+      5
+    ],
+    "faceIndex": 3,
+    "faceName": "モンスター０１",
+    "traits": [
+      {
+        "code": 53,
+        "dataId": 1,
+        "value": 1
+      },
+      {
+        "code": 53,
+        "dataId": 2,
+        "value": 1
+      }
+    ],
+    "initialLevel": 3,
+    "maxLevel": 20,
+    "name": "触手胶",
+    "nickname": "",
+    "note": "",
+    "profile": "A synthetic demon made of slime and tentacles.\nBesides ice magic, it can handle condition abnormalities."
+  },
+  {
+    "id": 6,
+    "battlerName": "",
+    "characterIndex": 4,
+    "characterName": "モンスターアイコン０１",
+    "classId": 14,
+    "equips": [
+      6,
+      6
+    ],
+    "faceIndex": 4,
+    "faceName": "モンスター０１",
+    "traits": [
+      {
+        "code": 53,
+        "dataId": 1,
+        "value": 1
+      },
+      {
+        "code": 53,
+        "dataId": 2,
+        "value": 1
+      }
+    ],
+    "initialLevel": 5,
+    "maxLevel": 20,
+    "name": "岩石恶魔",
+    "nickname": "",
+    "note": "",
+    "profile": "A powerful demon made of rock.\nIt has skills that can shield allies."
+  },
+  {
+    "id": 7,
+    "battlerName": "",
+    "characterIndex": 5,
+    "characterName": "モンスターアイコン０１",
+    "classId": 16,
+    "equips": [
+      7,
+      7
+    ],
+    "faceIndex": 5,
+    "faceName": "モンスター０１",
+    "traits": [
+      {
+        "code": 53,
+        "dataId": 1,
+        "value": 1
+      },
+      {
+        "code": 53,
+        "dataId": 2,
+        "value": 1
+      }
+    ],
+    "initialLevel": 7,
+    "maxLevel": 20,
+    "name": "瓦莱族",
+    "nickname": "",
+    "note": "",
+    "profile": "A strange family that always laughs.\nHandle fire and recovery magic."
+  },
+  {
+    "id": 8,
+    "battlerName": "",
+    "characterIndex": 6,
+    "characterName": "モンスターアイコン０１",
+    "classId": 18,
+    "equips": [
+      8,
+      8
+    ],
+    "faceIndex": 6,
+    "faceName": "モンスター０１",
+    "traits": [
+      {
+        "code": 53,
+        "dataId": 1,
+        "value": 1
+      },
+      {
+        "code": 53,
+        "dataId": 2,
+        "value": 1
+      }
+    ],
+    "initialLevel": 7,
+    "maxLevel": 20,
+    "name": "克塔克蘑菇",
+    "nickname": "",
+    "note": "",
+    "profile": "A big mushroom demon.\nCan use skills that inflict status change."
+  },
+  {
+    "id": 9,
+    "battlerName": "",
+    "characterIndex": 7,
+    "characterName": "モンスターアイコン０１",
+    "classId": 20,
+    "equips": [
+      9,
+      9
+    ],
+    "faceIndex": 7,
+    "faceName": "モンスター０１",
+    "traits": [
+      {
+        "code": 53,
+        "dataId": 1,
+        "value": 1
+      },
+      {
+        "code": 53,
+        "dataId": 2,
+        "value": 1
+      }
+    ],
+    "initialLevel": 9,
+    "maxLevel": 20,
+    "name": "穿洞鼹鼠",
+    "nickname": "",
+    "note": "",
+    "profile": "A mole demon that can create warp holes.\nGood at stunning foes."
+  },
+  {
+    "id": 10,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "モンスターアイコン０２",
+    "classId": 22,
+    "equips": [
+      10,
+      10
+    ],
+    "faceIndex": 0,
+    "faceName": "モンスター０２",
+    "traits": [
+      {
+        "code": 53,
+        "dataId": 1,
+        "value": 1
+      },
+      {
+        "code": 53,
+        "dataId": 2,
+        "value": 1
+      }
+    ],
+    "initialLevel": 11,
+    "maxLevel": 20,
+    "name": "巨乳仙人掌",
+    "nickname": "",
+    "note": "",
+    "profile": "A cactus with large boobs for some reason.\nGood at attacking with her boobs..."
+  },
+  {
+    "id": 11,
+    "battlerName": "",
+    "characterIndex": 1,
+    "characterName": "モンスターアイコン０２",
+    "classId": 24,
+    "equips": [
+      11,
+      11
+    ],
+    "faceIndex": 1,
+    "faceName": "モンスター０２",
+    "traits": [
+      {
+        "code": 53,
+        "dataId": 1,
+        "value": 1
+      },
+      {
+        "code": 53,
+        "dataId": 2,
+        "value": 1
+      }
+    ],
+    "initialLevel": 11,
+    "maxLevel": 20,
+    "name": "百足毛虫",
+    "nickname": "",
+    "note": "",
+    "profile": "Caterpillar demon with countless arms.\nEffective at multi-hit attacks."
+  },
+  {
+    "id": 12,
+    "battlerName": "",
+    "characterIndex": 2,
+    "characterName": "モンスターアイコン０２",
+    "classId": 26,
+    "equips": [
+      12,
+      12
+    ],
+    "faceIndex": 3,
+    "faceName": "モンスター０２",
+    "traits": [
+      {
+        "code": 53,
+        "dataId": 1,
+        "value": 1
+      },
+      {
+        "code": 53,
+        "dataId": 2,
+        "value": 1
+      }
+    ],
+    "initialLevel": 12,
+    "maxLevel": 20,
+    "name": "润滑坦克",
+    "nickname": "",
+    "note": "",
+    "profile": "A tank filld with slippery lotion.\nEffective at punch and thunder attacks."
+  },
+  {
+    "id": 13,
+    "battlerName": "",
+    "characterIndex": 3,
+    "characterName": "モンスターアイコン０２",
+    "classId": 28,
+    "equips": [
+      13,
+      13
+    ],
+    "faceIndex": 4,
+    "faceName": "モンスター０２",
+    "traits": [
+      {
+        "code": 53,
+        "dataId": 1,
+        "value": 1
+      },
+      {
+        "code": 53,
+        "dataId": 2,
+        "value": 1
+      }
+    ],
+    "initialLevel": 12,
+    "maxLevel": 20,
+    "name": "机械书生",
+    "nickname": "",
+    "note": "",
+    "profile": "A robot scientist who continues to study magic.\nUses magic of all the elements."
+  },
+  {
+    "id": 14,
+    "battlerName": "",
+    "characterIndex": 4,
+    "characterName": "モンスターアイコン０２",
+    "classId": 30,
+    "equips": [
+      14,
+      14
+    ],
+    "faceIndex": 5,
+    "faceName": "モンスター０２",
+    "traits": [
+      {
+        "code": 53,
+        "dataId": 1,
+        "value": 1
+      },
+      {
+        "code": 53,
+        "dataId": 2,
+        "value": 1
+      }
+    ],
+    "initialLevel": 14,
+    "maxLevel": 20,
+    "name": "冰冻箱",
+    "nickname": "",
+    "note": "",
+    "profile": "A monster made from a refrigerator.\nSkilled at using ice and sleep skills."
+  },
+  {
+    "id": 15,
+    "battlerName": "",
+    "characterIndex": 5,
+    "characterName": "モンスターアイコン０２",
+    "classId": 32,
+    "equips": [
+      15,
+      15
+    ],
+    "faceIndex": 6,
+    "faceName": "モンスター０２",
+    "traits": [
+      {
+        "code": 53,
+        "dataId": 1,
+        "value": 1
+      },
+      {
+        "code": 53,
+        "dataId": 2,
+        "value": 1
+      }
+    ],
+    "initialLevel": 16,
+    "maxLevel": 20,
+    "name": "机关甲虫",
+    "nickname": "",
+    "note": "",
+    "profile": "A strange beetle machine.\nHas strong slashing and laser attacks."
+  },
+  {
+    "id": 16,
+    "battlerName": "",
+    "characterIndex": 6,
+    "characterName": "モンスターアイコン０２",
+    "classId": 34,
+    "equips": [
+      16,
+      16
+    ],
+    "faceIndex": 7,
+    "faceName": "モンスター０２",
+    "traits": [
+      {
+        "code": 53,
+        "dataId": 1,
+        "value": 1
+      },
+      {
+        "code": 53,
+        "dataId": 2,
+        "value": 1
+      }
+    ],
+    "initialLevel": 16,
+    "maxLevel": 20,
+    "name": "清洁人偶",
+    "nickname": "",
+    "note": "",
+    "profile": "A machine girl made to wash people.\nSkilled at recovery and dark magic."
+  }
 ]

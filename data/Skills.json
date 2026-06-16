@@ -24,7 +24,7 @@
     "message1": " attacks!",
     "message2": "",
     "mpCost": 0,
-    "name": "Attack",
+    "name": "攻击",
     "note": "スキル１番は［攻撃］コマンドを\n選択したときに使用されます。",
     "occasion": 1,
     "repeats": 1,
@@ -61,7 +61,7 @@
     "message1": " puts up a guard.",
     "message2": "",
     "mpCost": 0,
-    "name": "Defend",
+    "name": "防御",
     "note": "スキル２番は［防御］コマンドを\n選択したときに使用されます。",
     "occasion": 1,
     "repeats": 1,
@@ -98,7 +98,7 @@
     "message1": " escaped!",
     "message2": "",
     "mpCost": 0,
-    "name": "Escape",
+    "name": "逃跑",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -128,7 +128,7 @@
     "message1": " is watching carefully.",
     "message2": "",
     "mpCost": 0,
-    "name": "Look at the state",
+    "name": "查看状态",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -241,7 +241,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Allows a Demon to become a member of your party.\nThe chance of it working depends on the demon.",
+    "description": "使恶魔成为队伍成员。\n成功率取决于恶魔。",
     "effects": [
       {
         "code": 21,
@@ -261,7 +261,7 @@
     "message1": " attempts to befriend the demon!",
     "message2": "",
     "mpCost": 0,
-    "name": "Scout",
+    "name": "侦查",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -284,7 +284,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Dorothy tickles Ria for her to gain a little MP.",
+    "description": "桃乐丝挠莉亚痒痒以获得少量MP。",
     "effects": [
       {
         "code": 44,
@@ -298,7 +298,7 @@
     "message1": " notices Dorothy get close to her...",
     "message2": "",
     "mpCost": 0,
-    "name": "Dorothy Tickles",
+    "name": "桃乐丝挠痒",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -321,7 +321,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Ria is tickled until she wets herself, reducing her\nurge meter to 0.",
+    "description": "莉亚被挠痒直到失禁，\n将欲求计量表降为0。",
     "effects": [
       {
         "code": 44,
@@ -335,7 +335,7 @@
     "message1": " was continually tickled!",
     "message2": "",
     "mpCost": 0,
-    "name": "Forced Incontinence",
+    "name": "强制失禁",
     "note": "",
     "occasion": 2,
     "repeats": 1,
@@ -388,14 +388,14 @@
       "type": 1,
       "variance": 10
     },
-    "description": "Attacks twice with a strong combination slash.",
+    "description": "以强力组合斩击攻击两次。",
     "effects": [],
     "hitType": 1,
     "iconIndex": 76,
     "message1": " uses %1!",
     "message2": "",
     "mpCost": 20,
-    "name": "Cross Slash",
+    "name": "十字斩",
     "note": "",
     "occasion": 1,
     "repeats": 2,
@@ -418,14 +418,14 @@
       "type": 1,
       "variance": 10
     },
-    "description": "A blazing slash that inflicts fire damage to a foe.",
+    "description": "灼热的一斩，对敌人造成火属性伤害。",
     "effects": [],
     "hitType": 1,
     "iconIndex": 64,
     "message1": " uses %1!",
     "message2": "",
     "mpCost": 30,
-    "name": "Flame Slash",
+    "name": "烈焰斩",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -448,14 +448,14 @@
       "type": 1,
       "variance": 10
     },
-    "description": "A chilling strike that inflicts ice damage to a foe.",
+    "description": "冰冷的一击，对敌人造成冰属性伤害。",
     "effects": [],
     "hitType": 1,
     "iconIndex": 65,
     "message1": " uses %1!",
     "message2": "",
     "mpCost": 30,
-    "name": "Ice Slash",
+    "name": "冰霜斩",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -478,14 +478,14 @@
       "type": 1,
       "variance": 10
     },
-    "description": "A lightning strike that inflicts electric damage to\na foe.",
+    "description": "雷电一击，对敌人造成雷属性伤害。",
     "effects": [],
     "hitType": 1,
     "iconIndex": 66,
     "message1": " uses %1!",
     "message2": "",
     "mpCost": 30,
-    "name": "Thunder Slash",
+    "name": "雷电斩",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -508,14 +508,14 @@
       "type": 1,
       "variance": 10
     },
-    "description": "Attack first with a high priority strike.",
+    "description": "以高优先级攻击抢先出手。",
     "effects": [],
     "hitType": 1,
     "iconIndex": 76,
     "message1": " uses %1!",
     "message2": "",
     "mpCost": 25,
-    "name": "Rapid Strike",
+    "name": "疾风突刺",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -538,14 +538,14 @@
       "type": 1,
       "variance": 10
     },
-    "description": "A savage double cut that attacks all enemies twice.",
+    "description": "凶猛的双重斩击，对全体敌人攻击两次。",
     "effects": [],
     "hitType": 1,
     "iconIndex": 76,
     "message1": " uses %1!",
     "message2": "",
     "mpCost": 50,
-    "name": "World Cross",
+    "name": "世界十字斩",
     "note": "",
     "occasion": 1,
     "repeats": 2,
@@ -568,14 +568,14 @@
       "type": 1,
       "variance": 10
     },
-    "description": "Attacks 4 random enemies in a quick blade flurry.",
+    "description": "以快速剑舞随机攻击4个敌人。",
     "effects": [],
     "hitType": 1,
     "iconIndex": 76,
     "message1": " uses %1!",
     "message2": "",
     "mpCost": 70,
-    "name": "Shimotsune Ranbu",
+    "name": "霜恒乱舞",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -598,14 +598,14 @@
       "type": 1,
       "variance": 10
     },
-    "description": "Unleash a sweeping blow that hit all foes and\nignore their defense!",
+    "description": "释放横扫攻击，命中全体敌人\n并无视其防御！",
     "effects": [],
     "hitType": 1,
     "iconIndex": 76,
     "message1": " uses %1!",
     "message2": "",
     "mpCost": 80,
-    "name": "Glint",
+    "name": "一闪",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -628,14 +628,14 @@
       "type": 1,
       "variance": 10
     },
-    "description": "An incredibly powerful strike that deals heavy\nelectric damage to one foe.",
+    "description": "极其强力的一击，对单个敌人\n造成大量雷属性伤害。",
     "effects": [],
     "hitType": 1,
     "iconIndex": 66,
     "message1": " uses %1!",
     "message2": "",
     "mpCost": 100,
-    "name": "Vortex Blade",
+    "name": "旋风刃",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -1558,14 +1558,14 @@
       "type": 1,
       "variance": 10
     },
-    "description": "Inflicts fire damage on a single foe.",
+    "description": "对单个敌人造成火属性伤害。",
     "effects": [],
     "hitType": 2,
     "iconIndex": 64,
     "message1": " casts %1!",
     "message2": "",
     "mpCost": 20,
-    "name": "Flame",
+    "name": "火焰",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -1588,14 +1588,14 @@
       "type": 1,
       "variance": 10
     },
-    "description": "Inflict fire damage on a single foe.\nMore powerful than Flame.",
+    "description": "对单个敌人造成火属性伤害。\n比火焰更强。",
     "effects": [],
     "hitType": 2,
     "iconIndex": 64,
     "message1": " casts %1!",
     "message2": "",
     "mpCost": 40,
-    "name": "Flame EX",
+    "name": "火焰EX",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -1648,14 +1648,14 @@
       "type": 1,
       "variance": 10
     },
-    "description": "Inflict fire damage to all enemies.",
+    "description": "对全体敌人造成火属性伤害。",
     "effects": [],
     "hitType": 2,
     "iconIndex": 64,
     "message1": " casts %1!",
     "message2": "",
     "mpCost": 40,
-    "name": "Firestorm",
+    "name": "火风暴",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -1678,14 +1678,14 @@
       "type": 1,
       "variance": 10
     },
-    "description": "Inflict fire damage to all enemies.\nMore powerful than Firestorm.",
+    "description": "对全体敌人造成火属性伤害。\n比火风暴更强。",
     "effects": [],
     "hitType": 2,
     "iconIndex": 64,
     "message1": " casts %1!",
     "message2": "",
     "mpCost": 100,
-    "name": "Firestorm EX",
+    "name": "火风暴EX",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -1708,14 +1708,14 @@
       "type": 1,
       "variance": 10
     },
-    "description": "Inflict ice damage to a single foe.",
+    "description": "对单个敌人造成冰属性伤害。",
     "effects": [],
     "hitType": 2,
     "iconIndex": 65,
     "message1": " casts %1!",
     "message2": "",
     "mpCost": 20,
-    "name": "Ice",
+    "name": "冰霜",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -1738,14 +1738,14 @@
       "type": 1,
       "variance": 10
     },
-    "description": "Inflict ice damage to a single foe.\nMore powerful than Ice.",
+    "description": "对单个敌人造成冰属性伤害。\n比冰霜更强。",
     "effects": [],
     "hitType": 2,
     "iconIndex": 65,
     "message1": " casts %1!",
     "message2": "",
     "mpCost": 40,
-    "name": "Ice EX",
+    "name": "冰霜EX",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -1798,14 +1798,14 @@
       "type": 1,
       "variance": 10
     },
-    "description": "Inflict ice damage to all enemies.",
+    "description": "对全体敌人造成冰属性伤害。",
     "effects": [],
     "hitType": 2,
     "iconIndex": 65,
     "message1": " casts %1!",
     "message2": "",
     "mpCost": 40,
-    "name": "Blizzard",
+    "name": "暴风雪",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -1828,14 +1828,14 @@
       "type": 1,
       "variance": 10
     },
-    "description": "Inflict ice damage to all enemies.\nMore powerful than Blizzard.",
+    "description": "对全体敌人造成冰属性伤害。\n比暴风雪更强。",
     "effects": [],
     "hitType": 2,
     "iconIndex": 65,
     "message1": " casts %1!",
     "message2": "",
     "mpCost": 100,
-    "name": "Blizzard EX",
+    "name": "暴风雪EX",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -1858,14 +1858,14 @@
       "type": 1,
       "variance": 10
     },
-    "description": "Inflict lightning damage to a foe.",
+    "description": "对敌人造成雷属性伤害。",
     "effects": [],
     "hitType": 2,
     "iconIndex": 66,
     "message1": " casts %1!",
     "message2": "",
     "mpCost": 20,
-    "name": "Thunder",
+    "name": "雷电",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -1888,14 +1888,14 @@
       "type": 1,
       "variance": 10
     },
-    "description": "Inflict lightning damage to a foe.\nMore powerful than Thunder.",
+    "description": "对敌人造成雷属性伤害。\n比雷电更强。",
     "effects": [],
     "hitType": 2,
     "iconIndex": 66,
     "message1": " casts %1!",
     "message2": "",
     "mpCost": 40,
-    "name": "Thunder EX",
+    "name": "雷电EX",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -1948,14 +1948,14 @@
       "type": 1,
       "variance": 10
     },
-    "description": "Inflict lightning damage to all enemies.",
+    "description": "对全体敌人造成雷属性伤害。",
     "effects": [],
     "hitType": 2,
     "iconIndex": 66,
     "message1": " casts %1!",
     "message2": "",
     "mpCost": 40,
-    "name": "Thunderstorm",
+    "name": "雷暴",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -1978,14 +1978,14 @@
       "type": 1,
       "variance": 10
     },
-    "description": "Inflict lightning damage to all enemies.\nMore powerful than Thunderstorm.",
+    "description": "对全体敌人造成雷属性伤害。\n比雷暴更强。",
     "effects": [],
     "hitType": 2,
     "iconIndex": 66,
     "message1": " casts %1!",
     "message2": "",
     "mpCost": 100,
-    "name": "Thunderstorm EX",
+    "name": "雷暴EX",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -2158,14 +2158,14 @@
       "type": 1,
       "variance": 10
     },
-    "description": "Inflict earth damage to a foe.",
+    "description": "对敌人造成地属性伤害。",
     "effects": [],
     "hitType": 2,
     "iconIndex": 68,
     "message1": " casts %1!",
     "message2": "",
     "mpCost": 20,
-    "name": "Earth",
+    "name": "大地",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -2188,14 +2188,14 @@
       "type": 1,
       "variance": 10
     },
-    "description": "Inflict earth damage to a foe.\nMore powerful than Earth.",
+    "description": "对敌人造成地属性伤害。\n比大地更强。",
     "effects": [],
     "hitType": 2,
     "iconIndex": 68,
     "message1": " casts %1!",
     "message2": "",
     "mpCost": 40,
-    "name": "Earth EX",
+    "name": "大地EX",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -2248,14 +2248,14 @@
       "type": 1,
       "variance": 10
     },
-    "description": "Inflict earth damage to all enemies.",
+    "description": "对全体敌人造成地属性伤害。",
     "effects": [],
     "hitType": 2,
     "iconIndex": 68,
     "message1": " casts %1!",
     "message2": "",
     "mpCost": 40,
-    "name": "Quake",
+    "name": "地震",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -2278,14 +2278,14 @@
       "type": 1,
       "variance": 10
     },
-    "description": "Inflict earth damage to all enemies.\nMore powerful than Quake.",
+    "description": "对全体敌人造成地属性伤害。\n比地震更强。",
     "effects": [],
     "hitType": 2,
     "iconIndex": 68,
     "message1": " casts %1!",
     "message2": "",
     "mpCost": 100,
-    "name": "Quake EX",
+    "name": "地震EX",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -2458,14 +2458,14 @@
       "type": 1,
       "variance": 10
     },
-    "description": "Inflict light damage to a foe.",
+    "description": "对敌人造成光属性伤害。",
     "effects": [],
     "hitType": 2,
     "iconIndex": 70,
     "message1": " casts %1!",
     "message2": "",
     "mpCost": 20,
-    "name": "Ray",
+    "name": "圣光",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -2488,14 +2488,14 @@
       "type": 1,
       "variance": 10
     },
-    "description": "Inflict light damage to a foe.\nMore powerful than Ray.",
+    "description": "对敌人造成光属性伤害。\n比圣光更强。",
     "effects": [],
     "hitType": 2,
     "iconIndex": 70,
     "message1": " casts %1!",
     "message2": "",
     "mpCost": 40,
-    "name": "Ray EX",
+    "name": "圣光EX",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -2548,14 +2548,14 @@
       "type": 1,
       "variance": 10
     },
-    "description": "Inflict light damage to all enemies.",
+    "description": "对全体敌人造成光属性伤害。",
     "effects": [],
     "hitType": 2,
     "iconIndex": 70,
     "message1": " casts %1!",
     "message2": "",
     "mpCost": 40,
-    "name": "Lightburst",
+    "name": "光爆",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -2578,14 +2578,14 @@
       "type": 1,
       "variance": 10
     },
-    "description": "Inflict light damage to all enemies.\nMore powerful than Lightburst.",
+    "description": "对全体敌人造成光属性伤害。\n比光爆更强。",
     "effects": [],
     "hitType": 2,
     "iconIndex": 70,
     "message1": " casts %1!",
     "message2": "",
     "mpCost": 100,
-    "name": "Lightburst EX",
+    "name": "光爆EX",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -2608,14 +2608,14 @@
       "type": 1,
       "variance": 10
     },
-    "description": "Inflict dark damage on a foe.",
+    "description": "对敌人造成暗属性伤害。",
     "effects": [],
     "hitType": 2,
     "iconIndex": 71,
     "message1": " casts %1!",
     "message2": "",
     "mpCost": 20,
-    "name": "Nightshade",
+    "name": "暗影",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -2638,14 +2638,14 @@
       "type": 1,
       "variance": 10
     },
-    "description": "Inflict dark damage to a foe.\nMore powerful than Nightshade.",
+    "description": "对敌人造成暗属性伤害。\n比暗影更强。",
     "effects": [],
     "hitType": 2,
     "iconIndex": 71,
     "message1": " casts %1!",
     "message2": "",
     "mpCost": 40,
-    "name": "Nightshade EX",
+    "name": "暗影EX",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -2698,14 +2698,14 @@
       "type": 1,
       "variance": 10
     },
-    "description": "Inflict dark damage to all enemies.\n",
+    "description": "对全体敌人造成暗属性伤害。\n",
     "effects": [],
     "hitType": 2,
     "iconIndex": 71,
     "message1": " casts %1!",
     "message2": "",
     "mpCost": 40,
-    "name": "Eclipse",
+    "name": "蚀暗",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -2728,14 +2728,14 @@
       "type": 1,
       "variance": 10
     },
-    "description": "Inflict dark damage to all eneimes.\nMore powerful than Eclipse.",
+    "description": "对全体敌人造成暗属性伤害。\n比蚀暗更强。",
     "effects": [],
     "hitType": 2,
     "iconIndex": 71,
     "message1": " casts %1!",
     "message2": "",
     "mpCost": 100,
-    "name": "Eclipse EX",
+    "name": "蚀暗EX",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -3058,14 +3058,14 @@
       "type": 3,
       "variance": 10
     },
-    "description": "Restores around 1000 HP to an ally.",
+    "description": "恢复单个队友约1000点HP。",
     "effects": [],
     "hitType": 0,
     "iconIndex": 72,
     "message1": " casts %1!",
     "message2": "",
     "mpCost": 20,
-    "name": "Heal",
+    "name": "治愈",
     "note": "",
     "occasion": 0,
     "repeats": 1,
@@ -3088,14 +3088,14 @@
       "type": 3,
       "variance": 10
     },
-    "description": "Recovers around 2000 HP of an ally.",
+    "description": "恢复单个队友约2000点HP。",
     "effects": [],
     "hitType": 0,
     "iconIndex": 72,
     "message1": " casts %1!",
     "message2": "",
     "mpCost": 40,
-    "name": "Heal EX",
+    "name": "治愈EX",
     "note": "",
     "occasion": 0,
     "repeats": 1,
@@ -3178,14 +3178,14 @@
       "type": 3,
       "variance": 10
     },
-    "description": "Restores around 1000 HP to all allies.",
+    "description": "恢复全体队友约1000点HP。",
     "effects": [],
     "hitType": 0,
     "iconIndex": 72,
     "message1": " casts %1!",
     "message2": "",
     "mpCost": 40,
-    "name": "Harmonize",
+    "name": "调和",
     "note": "",
     "occasion": 0,
     "repeats": 1,
@@ -3208,14 +3208,14 @@
       "type": 3,
       "variance": 10
     },
-    "description": "Restores around 2000 HP to all allies.",
+    "description": "恢复全体队友约2000点HP。",
     "effects": [],
     "hitType": 0,
     "iconIndex": 72,
     "message1": " casts %1!",
     "message2": "",
     "mpCost": 100,
-    "name": "Harmonize EX",
+    "name": "调和EX",
     "note": "",
     "occasion": 0,
     "repeats": 1,
@@ -3268,7 +3268,7 @@
       "type": 0,
       "variance": 10
     },
-    "description": "Removes negative status effects on an ally.\n",
+    "description": "解除单个队友的负面状态。\n",
     "effects": [
       {
         "code": 22,
@@ -3312,7 +3312,7 @@
     "message1": " casts %1!",
     "message2": "",
     "mpCost": 10,
-    "name": "Cure",
+    "name": "净化",
     "note": "",
     "occasion": 0,
     "repeats": 1,
@@ -3335,7 +3335,7 @@
       "type": 0,
       "variance": 10
     },
-    "description": "Removes negative status effects of all allies.\n",
+    "description": "解除全体队友的负面状态。\n",
     "effects": [
       {
         "code": 22,
@@ -3379,7 +3379,7 @@
     "message1": " casts %1!",
     "message2": "",
     "mpCost": 50,
-    "name": "Cure Wave",
+    "name": "净化波",
     "note": "",
     "occasion": 0,
     "repeats": 1,
@@ -3732,7 +3732,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Increases the Attack of an ally.",
+    "description": "提升单个队友的攻击力。",
     "effects": [
       {
         "code": 21,
@@ -3746,7 +3746,7 @@
     "message1": " casts %1!",
     "message2": "",
     "mpCost": 20,
-    "name": "Attack Up",
+    "name": "攻击强化",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -3769,7 +3769,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Increases the Attack of all allies.",
+    "description": "提升全体队友的攻击力。",
     "effects": [
       {
         "code": 21,
@@ -3783,7 +3783,7 @@
     "message1": " casts %1!",
     "message2": "",
     "mpCost": 60,
-    "name": "Attack Up All",
+    "name": "全体攻击强化",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -3806,7 +3806,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Increases the Defense of an ally.",
+    "description": "提升单个队友的防御力。",
     "effects": [
       {
         "code": 21,
@@ -3820,7 +3820,7 @@
     "message1": " casts %1!",
     "message2": "",
     "mpCost": 10,
-    "name": "Defense Up",
+    "name": "防御强化",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -3843,7 +3843,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Increases the Defense of all allies.",
+    "description": "提升全体队友的防御力。",
     "effects": [
       {
         "code": 21,
@@ -3857,7 +3857,7 @@
     "message1": " casts %1!",
     "message2": "",
     "mpCost": 40,
-    "name": "Defense Up All",
+    "name": "全体防御强化",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -3880,7 +3880,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Increases the Magic Attack and Magic Defense of\nan ally.",
+    "description": "提升单个队友的魔法攻击和魔法防御。",
     "effects": [
       {
         "code": 21,
@@ -3900,7 +3900,7 @@
     "message1": " casts %1!",
     "message2": "",
     "mpCost": 20,
-    "name": "Magic Up",
+    "name": "魔力强化",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -3923,7 +3923,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Increases the Magic Attack and Magic Defense of\nall allies.",
+    "description": "提升全体队友的魔法攻击和魔法防御。",
     "effects": [
       {
         "code": 21,
@@ -3943,7 +3943,7 @@
     "message1": " casts %1!",
     "message2": "",
     "mpCost": 60,
-    "name": "Magic Up All",
+    "name": "全体魔力强化",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -3966,7 +3966,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Increases the Speed of an ally.",
+    "description": "提升单个队友的速度。",
     "effects": [
       {
         "code": 21,
@@ -3980,7 +3980,7 @@
     "message1": " casts %1!",
     "message2": "",
     "mpCost": 10,
-    "name": "Speed Up",
+    "name": "速度强化",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -4003,7 +4003,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Increases the Speed of all allies.",
+    "description": "提升全体队友的速度。",
     "effects": [
       {
         "code": 21,
@@ -4017,7 +4017,7 @@
     "message1": " casts %1!",
     "message2": "",
     "mpCost": 40,
-    "name": "Speed Up All",
+    "name": "全体速度强化",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -4100,7 +4100,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Inflicts the Blind state on a foe.",
+    "description": "对敌人附加致盲状态。",
     "effects": [
       {
         "code": 21,
@@ -4114,7 +4114,7 @@
     "message1": " casts %1!",
     "message2": "",
     "mpCost": 20,
-    "name": "Blind",
+    "name": "致盲",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -4167,7 +4167,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Inflicts the Silence state on a foe.",
+    "description": "对敌人附加沉默状态。",
     "effects": [
       {
         "code": 21,
@@ -4181,7 +4181,7 @@
     "message1": " casts %1!",
     "message2": "",
     "mpCost": 20,
-    "name": "Silence",
+    "name": "沉默",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -4234,7 +4234,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Inflicts the Confused state on a foe.",
+    "description": "对敌人附加混乱状态。",
     "effects": [
       {
         "code": 21,
@@ -4248,7 +4248,7 @@
     "message1": " casts %1!",
     "message2": "",
     "mpCost": 20,
-    "name": "Confuse",
+    "name": "混乱",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -4301,7 +4301,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Puts an enemy to sleep.",
+    "description": "使敌人陷入睡眠。",
     "effects": [
       {
         "code": 21,
@@ -4315,7 +4315,7 @@
     "message1": " casts %1!",
     "message2": "",
     "mpCost": 20,
-    "name": "Sleep",
+    "name": "催眠",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -4712,7 +4712,7 @@
     "message1": " attacks!",
     "message2": "",
     "mpCost": 0,
-    "name": "Attack",
+    "name": "攻击",
     "note": "スキル１番は［攻撃］コマンドを\n選択したときに使用されます。",
     "occasion": 1,
     "repeats": 1,
@@ -4735,7 +4735,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Blocks the next attack aimed a party member.\nAttack power is reduced however.",
+    "description": "为队友挡下下一次攻击。\n但攻击力会降低。",
     "effects": [
       {
         "code": 21,
@@ -4749,7 +4749,7 @@
     "message1": " get's ready for the attack!",
     "message2": "",
     "mpCost": 20,
-    "name": "Substitute",
+    "name": "替身",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -4772,14 +4772,14 @@
       "type": 1,
       "variance": 10
     },
-    "description": "Strikes a foe with a powerful palm strike.",
+    "description": "以强力掌击打击敌人。",
     "effects": [],
     "hitType": 1,
     "iconIndex": 76,
     "message1": " uses %1!",
     "message2": "",
     "mpCost": 15,
-    "name": "Rock Palm",
+    "name": "岩石掌",
     "note": "",
     "occasion": 1,
     "repeats": 2,
@@ -4802,14 +4802,14 @@
       "type": 1,
       "variance": 10
     },
-    "description": "A punch that uses the weight of the entire body.\nHas a high chance of missing.",
+    "description": "倾注全身重量的一拳。\n但命中率较低。",
     "effects": [],
     "hitType": 1,
     "iconIndex": 76,
     "message1": " uses %1!",
     "message2": "",
     "mpCost": 30,
-    "name": "Wild Haymaker",
+    "name": "狂野重拳",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -4832,14 +4832,14 @@
       "type": 5,
       "variance": 10
     },
-    "description": "A physical attack that drains enemy HP.",
+    "description": "吸取敌人HP的物理攻击。",
     "effects": [],
     "hitType": 1,
     "iconIndex": 76,
     "message1": " uses %1!",
     "message2": "",
     "mpCost": 25,
-    "name": "Blood Suction",
+    "name": "吸血",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -4862,7 +4862,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Locks the foe in place, stunning them.",
+    "description": "将敌人锁定在原地，使其眩晕。",
     "effects": [
       {
         "code": 21,
@@ -4876,7 +4876,7 @@
     "message1": " uses %1!",
     "message2": "",
     "mpCost": 15,
-    "name": "Cement Lock",
+    "name": "水泥封锁",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -4899,7 +4899,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Decreases the Defense of all foes with a spray of\ncorrosive slime.",
+    "description": "喷射腐蚀黏液，\n降低全体敌人的防御力。",
     "effects": [
       {
         "code": 21,
@@ -4913,7 +4913,7 @@
     "message1": " uses %1!",
     "message2": "",
     "mpCost": 30,
-    "name": "Corrosive Slime",
+    "name": "腐蚀黏液",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -4936,7 +4936,7 @@
       "type": 1,
       "variance": 10
     },
-    "description": "Attacks with a poison seeped tentacle that may posion\na foe.",
+    "description": "以浸毒触手攻击，\n可能使敌人中毒。",
     "effects": [
       {
         "code": 21,
@@ -4950,7 +4950,7 @@
     "message1": " uses %1!",
     "message2": "",
     "mpCost": 25,
-    "name": "Poison Tentacle",
+    "name": "毒触手",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -4973,7 +4973,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Solidifies the body increasing Attack and Defense.",
+    "description": "硬化身体，提升攻击力和防御力。",
     "effects": [
       {
         "code": 21,
@@ -4993,7 +4993,7 @@
     "message1": " uses %1!",
     "message2": "",
     "mpCost": 30,
-    "name": "Harden",
+    "name": "硬化",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -5036,7 +5036,7 @@
     "message1": " uses %1!",
     "message2": "",
     "mpCost": 0,
-    "name": "Bottemless Swamp",
+    "name": "无底沼泽",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -5059,7 +5059,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Emits a loud sound that confuses the foe.",
+    "description": "发出巨响，使敌人混乱。",
     "effects": [
       {
         "code": 21,
@@ -5073,7 +5073,7 @@
     "message1": " uses %1!",
     "message2": "",
     "mpCost": 45,
-    "name": "Sonic Wave",
+    "name": "音波",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -5096,7 +5096,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Repairs the body, recovering half HP.",
+    "description": "修复身体，恢复一半HP。",
     "effects": [
       {
         "code": 11,
@@ -5110,7 +5110,7 @@
     "message1": " uses %1!",
     "message2": "",
     "mpCost": 20,
-    "name": "Repair",
+    "name": "修复",
     "note": "",
     "occasion": 0,
     "repeats": 1,
@@ -5133,14 +5133,14 @@
       "type": 1,
       "variance": 10
     },
-    "description": "Countless rock pillars attack the foe causing heavy\nEarth damage.",
+    "description": "无数岩石柱攻击敌人，\n造成大量地属性伤害。",
     "effects": [],
     "hitType": 1,
     "iconIndex": 68,
     "message1": " uses %1!",
     "message2": "",
     "mpCost": 50,
-    "name": "Thousand Rock",
+    "name": "千岩",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -5163,14 +5163,14 @@
       "type": 1,
       "variance": 10
     },
-    "description": "Attack a foe multiple times.",
+    "description": "对敌人进行多次攻击。",
     "effects": [],
     "hitType": 1,
     "iconIndex": 76,
     "message1": " uses %1!",
     "message2": "",
     "mpCost": 40,
-    "name": "Multi Strike",
+    "name": "连击",
     "note": "",
     "occasion": 1,
     "repeats": 3,
@@ -5193,7 +5193,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Paints a foe with a dark paint that Blinds them.",
+    "description": "用暗黑涂料涂抹敌人，使其致盲。",
     "effects": [
       {
         "code": 21,
@@ -5207,7 +5207,7 @@
     "message1": " uses %1!",
     "message2": "",
     "mpCost": 20,
-    "name": "Dark Paint",
+    "name": "暗黑涂鸦",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -5230,14 +5230,14 @@
       "type": 1,
       "variance": 10
     },
-    "description": "A wide attack with a brush that hits all enemies.",
+    "description": "以大刷子进行范围攻击，命中全体敌人。",
     "effects": [],
     "hitType": 0,
     "iconIndex": 76,
     "message1": " uses %1!",
     "message2": "",
     "mpCost": 50,
-    "name": "Brush Sweep",
+    "name": "横扫刷击",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -5260,7 +5260,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "A toxic powder is emitted, poisoning all enemies.",
+    "description": "释放毒粉，使全体敌人中毒。",
     "effects": [
       {
         "code": 21,
@@ -5274,7 +5274,7 @@
     "message1": " uses %1!",
     "message2": "",
     "mpCost": 30,
-    "name": "Poison Powder",
+    "name": "毒粉",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -5297,7 +5297,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "A strange poweder is emitted, putting all foes to\nsleep.",
+    "description": "释放奇异粉末，\n使全体敌人陷入睡眠。",
     "effects": [
       {
         "code": 21,
@@ -5311,7 +5311,7 @@
     "message1": " uses %1!",
     "message2": "",
     "mpCost": 40,
-    "name": "Sleep Powder",
+    "name": "催眠粉",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -5334,7 +5334,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "A yellow poweder is emitted stunning all enemies.",
+    "description": "释放黄色粉末，使全体敌人麻痹。",
     "effects": [
       {
         "code": 21,
@@ -5348,7 +5348,7 @@
     "message1": " uses %1!",
     "message2": "",
     "mpCost": 50,
-    "name": "Stun Spore",
+    "name": "麻痹粉",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -5371,14 +5371,14 @@
       "type": 1,
       "variance": 10
     },
-    "description": "Attacks a single foe multiple times.",
+    "description": "对单个敌人进行多次攻击。",
     "effects": [],
     "hitType": 1,
     "iconIndex": 76,
     "message1": " uses %1!",
     "message2": "",
     "mpCost": 60,
-    "name": "Drill Attack",
+    "name": "钻头攻击",
     "note": "",
     "occasion": 1,
     "repeats": 4,
@@ -5401,7 +5401,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Creates a warp hole to trap the foe, stunning them.",
+    "description": "制造扭曲洞穴困住敌人，使其眩晕。",
     "effects": [
       {
         "code": 21,
@@ -5415,7 +5415,7 @@
     "message1": " uses %1!",
     "message2": "",
     "mpCost": 15,
-    "name": "Hole Trap",
+    "name": "洞穴陷阱",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -5438,7 +5438,7 @@
       "type": 1,
       "variance": 10
     },
-    "description": "An savage claw attack that reduces the foe's Defense.",
+    "description": "凶猛的爪击，降低敌人的防御力。",
     "effects": [
       {
         "code": 21,
@@ -5452,7 +5452,7 @@
     "message1": " uses %1!",
     "message2": "",
     "mpCost": 25,
-    "name": "Breaker Claw",
+    "name": "碎裂爪",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -5475,7 +5475,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Attacks from sveral warp holes, damaging enemies\nat random. May Stun.",
+    "description": "从多个扭曲洞穴中攻击，\n随机伤害敌人。可能眩晕。",
     "effects": [
       {
         "code": 21,
@@ -5489,7 +5489,7 @@
     "message1": " uses %1!",
     "message2": "",
     "mpCost": 50,
-    "name": "Drill Storm",
+    "name": "钻头风暴",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -5512,7 +5512,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Cement is splattered at an enemy, blinding\nand silencing them.",
+    "description": "水泥飞溅向敌人，\n使其致盲和沉默。",
     "effects": [
       {
         "code": 21,
@@ -5532,7 +5532,7 @@
     "message1": " uses %1!",
     "message2": "",
     "mpCost": 100,
-    "name": "Cement Splash",
+    "name": "水泥飞溅",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -5555,7 +5555,7 @@
       "type": 1,
       "variance": 10
     },
-    "description": "Tentacles dripping with poison strike an enemy\n3 times. Poisons enemy.",
+    "description": "滴落毒液的触手攻击敌人3次。\n使敌人中毒。",
     "effects": [
       {
         "code": 21,
@@ -5569,7 +5569,7 @@
     "message1": " uses %1!",
     "message2": "",
     "mpCost": 110,
-    "name": "Poison Tentacles",
+    "name": "毒触手连击",
     "note": "",
     "occasion": 1,
     "repeats": 3,
@@ -5592,7 +5592,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "[Priority] Halves all physical damage for an ally\nfor 2 turns.",
+    "description": "【优先】2回合内为队友\n减半所有物理伤害。",
     "effects": [
       {
         "code": 21,
@@ -5606,7 +5606,7 @@
     "message1": " uses %1!",
     "message2": "",
     "mpCost": 150,
-    "name": "Block",
+    "name": "格挡",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -5629,14 +5629,14 @@
       "type": 1,
       "variance": 10
     },
-    "description": "A powerful strike that damages one enemy.",
+    "description": "对单个敌人造成伤害的强力一击。",
     "effects": [],
     "hitType": 1,
     "iconIndex": 76,
     "message1": " uses %1!",
     "message2": "",
     "mpCost": 80,
-    "name": "Rock Hammer",
+    "name": "岩石锤",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -5659,7 +5659,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Various powderes a spewed into the air. Inflicts\npoison, darkness, silence, confusion, sleep, paralysis.",
+    "description": "向空中喷射各种粉末。\n附加中毒、致盲、沉默、混乱、睡眠、麻痹。",
     "effects": [
       {
         "code": 21,
@@ -5703,7 +5703,7 @@
     "message1": " uses %1!",
     "message2": "",
     "mpCost": 180,
-    "name": "Mikusu Powder",
+    "name": "混合粉末",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -5726,7 +5726,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Drills a large hole into space that stuns\nall enemies.",
+    "description": "在空间中钻出一个大洞，\n使全体敌人眩晕。",
     "effects": [
       {
         "code": 21,
@@ -5740,7 +5740,7 @@
     "message1": " uses %1!",
     "message2": "",
     "mpCost": 90,
-    "name": "Giant Hole",
+    "name": "巨型洞穴",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -5763,14 +5763,14 @@
       "type": 1,
       "variance": 10
     },
-    "description": "Damages one enemy with a viscious slash combination.",
+    "description": "以凶猛的连斩组合伤害单个敌人。",
     "effects": [],
     "hitType": 1,
     "iconIndex": 76,
     "message1": " uses %1!",
     "message2": "",
     "mpCost": 150,
-    "name": "Slash Combo",
+    "name": "连斩",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -5793,14 +5793,14 @@
       "type": 1,
       "variance": 10
     },
-    "description": "Attack one enemy using large breasts...",
+    "description": "用巨乳攻击单个敌人……",
     "effects": [],
     "hitType": 1,
     "iconIndex": 76,
     "message1": " uses %1!",
     "message2": "",
     "mpCost": 15,
-    "name": "Bosom Attack",
+    "name": "胸部攻击",
     "note": "",
     "occasion": 1,
     "repeats": 2,
@@ -5823,14 +5823,14 @@
       "type": 1,
       "variance": 10
     },
-    "description": "Damages one enemy and silences them.",
+    "description": "伤害单个敌人并使其沉默。",
     "effects": [],
     "hitType": 1,
     "iconIndex": 4,
     "message1": " uses %1!",
     "message2": "",
     "mpCost": 25,
-    "name": "Breast Press",
+    "name": "胸部压制",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -5853,7 +5853,7 @@
       "type": 0,
       "variance": 10
     },
-    "description": "Recovers 50% of an friendly party member's HP.\nDon't ask.",
+    "description": "恢复队友50%的HP。\n别问了。",
     "effects": [
       {
         "code": 11,
@@ -5867,7 +5867,7 @@
     "message1": " uses %1!",
     "message2": "",
     "mpCost": 30,
-    "name": "Milk Drink",
+    "name": "牛奶饮料",
     "note": "",
     "occasion": 0,
     "repeats": 1,
@@ -5890,14 +5890,14 @@
       "type": 1,
       "variance": 10
     },
-    "description": "Punches with flailing arms, damaging 4 random enemies.",
+    "description": "挥舞手臂乱打，随机攻击4个敌人。",
     "effects": [],
     "hitType": 1,
     "iconIndex": 76,
     "message1": " uses %1!",
     "message2": "",
     "mpCost": 50,
-    "name": "Punch Rush",
+    "name": "拳击连打",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -5920,7 +5920,7 @@
       "type": 0,
       "variance": 10
     },
-    "description": "Seduces an enemy with a pheromone reducing their\nAttack.",
+    "description": "用信息素魅惑敌人，\n降低其攻击力。",
     "effects": [
       {
         "code": 21,
@@ -5934,7 +5934,7 @@
     "message1": " uses %1!",
     "message2": "",
     "mpCost": 60,
-    "name": "Pheromone",
+    "name": "信息素",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -5957,7 +5957,7 @@
       "type": 0,
       "variance": 10
     },
-    "description": "Recovers 50% of an ally's HP with a refreshing\nmilk drink. Don't ask.",
+    "description": "用清爽的牛奶饮料恢复队友50%的HP。\n别问了。",
     "effects": [
       {
         "code": 11,
@@ -5971,7 +5971,7 @@
     "message1": " uses %1!",
     "message2": "",
     "mpCost": 120,
-    "name": "Milk Drink",
+    "name": "牛奶饮料",
     "note": "",
     "occasion": 0,
     "repeats": 1,
@@ -5994,14 +5994,14 @@
       "type": 1,
       "variance": 10
     },
-    "description": "Inflict heavy damage on an enemy using a giant\nbreasted tackle.",
+    "description": "以巨乳冲击对敌人造成大量伤害。",
     "effects": [],
     "hitType": 1,
     "iconIndex": 76,
     "message1": " uses %1!",
     "message2": "",
     "mpCost": 120,
-    "name": "Busty Break",
+    "name": "巨乳冲击",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -6024,14 +6024,14 @@
       "type": 1,
       "variance": 10
     },
-    "description": "Attacks one enemy witha powerful punch.",
+    "description": "以强力拳击攻击单个敌人。",
     "effects": [],
     "hitType": 1,
     "iconIndex": 76,
     "message1": " uses %1!",
     "message2": "",
     "mpCost": 80,
-    "name": "Strong Punch",
+    "name": "强力拳",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -6054,7 +6054,7 @@
       "type": 0,
       "variance": 10
     },
-    "description": "Seduces an enemy inflicting the enfactuation state.",
+    "description": "魅惑敌人，附加着迷状态。",
     "effects": [
       {
         "code": 21,
@@ -6068,7 +6068,7 @@
     "message1": " uses %1!",
     "message2": "",
     "mpCost": 20,
-    "name": "Temptation",
+    "name": "诱惑",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -6091,14 +6091,14 @@
       "type": 1,
       "variance": 10
     },
-    "description": "A large electric field is deployed inflicting\nelectric damage to all enemies.",
+    "description": "展开大型电场，\n对全体敌人造成雷属性伤害。",
     "effects": [],
     "hitType": 0,
     "iconIndex": 66,
     "message1": " casts %1!",
     "message2": "",
     "mpCost": 50,
-    "name": "Spark Field",
+    "name": "电光领域",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -6121,7 +6121,7 @@
       "type": 1,
       "variance": 10
     },
-    "description": "Inflcits electric damage to a foe, may paralyse them.",
+    "description": "对敌人造成雷属性伤害，可能使其麻痹。",
     "effects": [
       {
         "code": 21,
@@ -6135,7 +6135,7 @@
     "message1": " uses %1!",
     "message2": "",
     "mpCost": 40,
-    "name": "Stun Beam",
+    "name": "麻痹光线",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -6158,7 +6158,7 @@
       "type": 0,
       "variance": 10
     },
-    "description": "Sprays slippery lotion on all enemies reducing\ntheir speed.",
+    "description": "向全体敌人喷射滑溜润肤液，\n降低其速度。",
     "effects": [
       {
         "code": 21,
@@ -6172,7 +6172,7 @@
     "message1": " uses %1!",
     "message2": "",
     "mpCost": 40,
-    "name": "Slippery Lotion",
+    "name": "滑溜润肤液",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -6195,14 +6195,14 @@
       "type": 1,
       "variance": 10
     },
-    "description": "A huge lightning bolt is fired on one enemy inflicting\nheavy electric damage.",
+    "description": "向单个敌人发射巨大雷电，\n造成大量雷属性伤害。",
     "effects": [],
     "hitType": 1,
     "iconIndex": 66,
     "message1": " casts %1!",
     "message2": "",
     "mpCost": 100,
-    "name": "Giga Lightning",
+    "name": "亿万闪电",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -6225,7 +6225,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Freezes an enemy inflicting the stun state.",
+    "description": "冻结敌人，附加眩晕状态。",
     "effects": [
       {
         "code": 21,
@@ -6239,7 +6239,7 @@
     "message1": " casts %1!",
     "message2": "",
     "mpCost": 15,
-    "name": "Quick Freeze",
+    "name": "急速冷冻",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -6262,7 +6262,7 @@
       "type": 1,
       "variance": 10
     },
-    "description": "Unleashes a cold blizzard that inflicts ice damage to\nall enemies and may induce the sleep state.",
+    "description": "释放寒冷暴风雪，对全体敌人\n造成冰属性伤害，可能附加睡眠状态。",
     "effects": [
       {
         "code": 21,
@@ -6276,7 +6276,7 @@
     "message1": " casts %1!",
     "message2": "",
     "mpCost": 80,
-    "name": "Drowsy Blizzard",
+    "name": "昏睡暴风雪",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -6299,14 +6299,14 @@
       "type": 1,
       "variance": 0
     },
-    "description": "A laser beam that always inflicts 500 damage.\n",
+    "description": "必定造成500点伤害的激光。\n",
     "effects": [],
     "hitType": 0,
     "iconIndex": 78,
     "message1": " uses %1!",
     "message2": "",
     "mpCost": 30,
-    "name": "Eye Beam",
+    "name": "眼射线",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -6329,14 +6329,14 @@
       "type": 1,
       "variance": 0
     },
-    "description": "A fiery laser that always deals 500 damage.",
+    "description": "必定造成500点伤害的灼热激光。",
     "effects": [],
     "hitType": 0,
     "iconIndex": 78,
     "message1": " uses %1!",
     "message2": "",
     "mpCost": 50,
-    "name": "Burning Laser",
+    "name": "灼热激光",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -6389,7 +6389,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Inflicts posion on all enemies.",
+    "description": "使全体敌人中毒。",
     "effects": [
       {
         "code": 21,
@@ -6403,7 +6403,7 @@
     "message1": " uses %1!",
     "message2": "",
     "mpCost": 0,
-    "name": "Posion Powder",
+    "name": "毒粉",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -6426,7 +6426,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Inflicts sleep on all enemies.",
+    "description": "使全体敌人陷入睡眠。",
     "effects": [
       {
         "code": 21,
@@ -6440,7 +6440,7 @@
     "message1": " uses %1!",
     "message2": "",
     "mpCost": 0,
-    "name": "Sleep Powder",
+    "name": "催眠粉",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -6463,7 +6463,7 @@
       "type": 0,
       "variance": 10
     },
-    "description": "Seduce.",
+    "description": "魅惑。",
     "effects": [
       {
         "code": 21,
@@ -6477,7 +6477,7 @@
     "message1": " uses %1!",
     "message2": "",
     "mpCost": 0,
-    "name": "Temptation",
+    "name": "诱惑",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -6514,7 +6514,7 @@
     "message1": " is charging power for the next attack!",
     "message2": "",
     "mpCost": 0,
-    "name": "Charge",
+    "name": "蓄力",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -9461,7 +9461,7 @@
     "message1": " approached Ria...",
     "message2": "",
     "mpCost": 0,
-    "name": "Tutorial 1",
+    "name": "教程 1",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -9498,7 +9498,7 @@
     "message1": " approached Ria...",
     "message2": "",
     "mpCost": 0,
-    "name": "Tutorial 2",
+    "name": "教程 2",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -9521,7 +9521,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Start tickling to the rear. (2 steps)",
+    "description": "开始从后方挠痒。（2阶段）",
     "effects": [
       {
         "code": 44,
@@ -9535,7 +9535,7 @@
     "message1": " approached Ria...",
     "message2": "",
     "mpCost": 0,
-    "name": "Bat tickle",
+    "name": "蝙蝠挠痒",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -9558,7 +9558,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Start tickling to the rear. (2 steps)",
+    "description": "开始从后方挠痒。（2阶段）",
     "effects": [
       {
         "code": 44,
@@ -9572,7 +9572,7 @@
     "message1": " approached Ria...",
     "message2": "",
     "mpCost": 0,
-    "name": "Isami Miku",
+    "name": "宇佐美蜜",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -9595,7 +9595,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Start tickling to the rear. (3 steps)",
+    "description": "开始从后方挠痒。（3阶段）",
     "effects": [
       {
         "code": 44,
@@ -9609,7 +9609,7 @@
     "message1": " approached Ria...",
     "message2": "",
     "mpCost": 0,
-    "name": "Cement tickling",
+    "name": "水泥挠痒",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -9632,7 +9632,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Start tickling to the rear. (2 steps)",
+    "description": "开始从后方挠痒。（2阶段）",
     "effects": [
       {
         "code": 44,
@@ -9646,7 +9646,7 @@
     "message1": " approached Ria...",
     "message2": "",
     "mpCost": 0,
-    "name": "Gel tickle",
+    "name": "胶体挠痒",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -9669,7 +9669,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Start tickling to the rear. (2 steps)",
+    "description": "开始从后方挠痒。（2阶段）",
     "effects": [
       {
         "code": 44,
@@ -9683,7 +9683,7 @@
     "message1": " approached Ria...",
     "message2": "",
     "mpCost": 0,
-    "name": "Rock Magic Tickle",
+    "name": "岩石魔法挠痒",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -9720,7 +9720,7 @@
     "message1": " approached Ria...",
     "message2": "",
     "mpCost": 0,
-    "name": "Numony brush tickling",
+    "name": "瓦莱刷子挠痒",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -9743,7 +9743,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Start tickling to the rear. (3 steps)",
+    "description": "开始从后方挠痒。（3阶段）",
     "effects": [
       {
         "code": 44,
@@ -9757,7 +9757,7 @@
     "message1": " approached Ria...",
     "message2": "",
     "mpCost": 0,
-    "name": "Warai tickling",
+    "name": "瓦莱挠痒",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -9780,7 +9780,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Start tickling to the rear. (2 steps)",
+    "description": "开始从后方挠痒。（2阶段）",
     "effects": [
       {
         "code": 44,
@@ -9794,7 +9794,7 @@
     "message1": " approached Ria...",
     "message2": "",
     "mpCost": 0,
-    "name": "Ketaketake Tickling",
+    "name": "蘑菇挠痒",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -9817,7 +9817,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Start tickling to the rear. (2 steps)",
+    "description": "开始从后方挠痒。（2阶段）",
     "effects": [
       {
         "code": 44,
@@ -9831,7 +9831,7 @@
     "message1": " approached Ria...",
     "message2": "",
     "mpCost": 0,
-    "name": "Mall tickle",
+    "name": "鼹鼠挠痒",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -9854,7 +9854,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Start tickling to the rear. (3 steps)",
+    "description": "开始从后方挠痒。（3阶段）",
     "effects": [
       {
         "code": 44,
@@ -9868,7 +9868,7 @@
     "message1": " approached Ria...",
     "message2": "",
     "mpCost": 0,
-    "name": "Cacti tickle",
+    "name": "仙人掌挠痒",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -9891,7 +9891,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Start tickling to the rear. (2 steps)",
+    "description": "开始从后方挠痒。（2阶段）",
     "effects": [
       {
         "code": 44,
@@ -9905,7 +9905,7 @@
     "message1": " approached Ria...",
     "message2": "",
     "mpCost": 0,
-    "name": "Caterpillar tickling",
+    "name": "毛虫挠痒",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -9928,7 +9928,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Start tickling to the rear. (2 steps)",
+    "description": "开始从后方挠痒。（2阶段）",
     "effects": [
       {
         "code": 44,
@@ -9942,7 +9942,7 @@
     "message1": " approached Ria...",
     "message2": "",
     "mpCost": 0,
-    "name": "Alleeune tickling",
+    "name": "阿鲁挠痒",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -9965,7 +9965,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Start tickling to the rear. (3 steps)",
+    "description": "开始从后方挠痒。（3阶段）",
     "effects": [
       {
         "code": 44,
@@ -9979,7 +9979,7 @@
     "message1": " approached Ria...",
     "message2": "",
     "mpCost": 0,
-    "name": "Lotion tickling",
+    "name": "润滑挠痒",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -10002,7 +10002,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Start tickling to the rear. (2 steps)",
+    "description": "开始从后方挠痒。（2阶段）",
     "effects": [
       {
         "code": 44,
@@ -10016,7 +10016,7 @@
     "message1": " approached Ria...",
     "message2": "",
     "mpCost": 0,
-    "name": "Mechagakusha tickling",
+    "name": "机学士挠痒",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -10039,7 +10039,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Start tickling to the rear. (2 steps)",
+    "description": "开始从后方挠痒。（2阶段）",
     "effects": [
       {
         "code": 44,
@@ -10053,7 +10053,7 @@
     "message1": " approached Ria...",
     "message2": "",
     "mpCost": 0,
-    "name": "Freeze tickle",
+    "name": "冰冻挠痒",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -10076,7 +10076,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Start tickling to the rear. (3 steps)",
+    "description": "开始从后方挠痒。（3阶段）",
     "effects": [
       {
         "code": 44,
@@ -10090,7 +10090,7 @@
     "message1": " approached Ria...",
     "message2": "",
     "mpCost": 0,
-    "name": "Stag beetle",
+    "name": "锹甲虫之躯",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -10113,7 +10113,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Start tickling to the rear. (2 steps)",
+    "description": "开始从后方挠痒。（2阶段）",
     "effects": [
       {
         "code": 44,
@@ -10127,7 +10127,7 @@
     "message1": " approached Ria...",
     "message2": "",
     "mpCost": 0,
-    "name": "Cleaning tickle",
+    "name": "清洁挠痒",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -10150,7 +10150,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Start tickling to the rear. (3 steps)",
+    "description": "开始从后方挠痒。（3阶段）",
     "effects": [
       {
         "code": 44,
@@ -10164,7 +10164,7 @@
     "message1": " approached Ria...",
     "message2": "",
     "mpCost": 0,
-    "name": "Gigantic Leisure Tickle",
+    "name": "巨型休闲挠痒",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -10201,7 +10201,7 @@
     "message1": " approached Ria...",
     "message2": "",
     "mpCost": 0,
-    "name": "Alleeune tickling reminiscence",
+    "name": "阿鲁挠痒追忆",
     "note": "",
     "occasion": 1,
     "repeats": 1,

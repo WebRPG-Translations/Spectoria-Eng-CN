@@ -16,7 +16,7 @@
         "hidden": false
       }
     ],
-    "name": "Tama Bat*2",
+    "name": "玉蝙蝠*2",
     "pages": [
       {
         "conditions": {
@@ -107,7 +107,7 @@
         "hidden": false
       }
     ],
-    "name": "Usami Pixie*2",
+    "name": "宇佐美精灵*2",
     "pages": [
       {
         "conditions": {
@@ -198,7 +198,7 @@
         "hidden": false
       }
     ],
-    "name": "Cement Slime*2",
+    "name": "水泥史莱姆*2",
     "pages": [
       {
         "conditions": {
@@ -289,7 +289,7 @@
         "hidden": false
       }
     ],
-    "name": "Tentagel*2",
+    "name": "触手胶*2",
     "pages": [
       {
         "conditions": {
@@ -374,7 +374,7 @@
         "hidden": false
       }
     ],
-    "name": "Rock Devil",
+    "name": "岩石恶魔",
     "pages": [
       {
         "conditions": {
@@ -459,7 +459,7 @@
         "hidden": false
       }
     ],
-    "name": "Numonyushi",
+    "name": "沼之主",
     "pages": [
       {
         "conditions": {
@@ -589,7 +589,7 @@
             "code": 401,
             "indent": 0,
             "parameters": [
-              "Numone shakes seriously!"
+              "沼之主剧烈颤抖！"
             ]
           },
           {
@@ -701,7 +701,7 @@
         "hidden": false
       }
     ],
-    "name": "Tama Bat",
+    "name": "玉蝙蝠",
     "pages": [
       {
         "conditions": {
@@ -779,21 +779,21 @@
             "code": 401,
             "indent": 0,
             "parameters": [
-              "\\c[2]Ria:\\c[0]"
+              "\\c[2]莉亚:\\c[0]"
             ]
           },
           {
             "code": 401,
             "indent": 0,
             "parameters": [
-              "I'll make short work of him with my"
+              "我会用我的"
             ]
           },
           {
             "code": 401,
             "indent": 0,
             "parameters": [
-              "awesome skills..."
+              "厉害技能速战速决……"
             ]
           },
           {
@@ -810,21 +810,21 @@
             "code": 401,
             "indent": 0,
             "parameters": [
-              "\\c[2]Ria:\\c[0]"
+              "\\c[2]莉亚:\\c[0]"
             ]
           },
           {
             "code": 401,
             "indent": 0,
             "parameters": [
-              "W-\\.Wait as sec...\\. There's no MP!\\."
+              "等、\\.等一下……\\.没有MP了！\\."
             ]
           },
           {
             "code": 401,
             "indent": 0,
             "parameters": [
-              "Why...?!"
+              "为什么……？！"
             ]
           },
           {
@@ -841,28 +841,28 @@
             "code": 401,
             "indent": 0,
             "parameters": [
-              "\\c[1]???:\\c[0]"
+              "\\c[1]???：\\c[0]"
             ]
           },
           {
             "code": 401,
             "indent": 0,
             "parameters": [
-              "Ooooh...\\. I forgot to say.\\.\\."
+              "哦……\\.我忘了说了。\\.\\."
             ]
           },
           {
             "code": 401,
             "indent": 0,
             "parameters": [
-              "You can't use your magic in these ruins.\\."
+              "在这座遗迹里你无法使用魔法。\\."
             ]
           },
           {
             "code": 401,
             "indent": 0,
             "parameters": [
-              "At least not in the normal way."
+              "至少不能用普通的方式。"
             ]
           },
           {
@@ -879,28 +879,28 @@
             "code": 401,
             "indent": 0,
             "parameters": [
-              "\\c[1]???:\\c[0]"
+              "\\c[1]???：\\c[0]"
             ]
           },
           {
             "code": 401,
             "indent": 0,
             "parameters": [
-              "Long ago the demons here placed a magic"
+              "很久以前这里的恶魔设下了"
             ]
           },
           {
             "code": 401,
             "indent": 0,
             "parameters": [
-              "seal that drained away the magic of all"
+              "一道吸走所有"
             ]
           },
           {
             "code": 401,
             "indent": 0,
             "parameters": [
-              "those who enter!"
+              "进入者魔力的封印！"
             ]
           },
           {
@@ -917,21 +917,21 @@
             "code": 401,
             "indent": 0,
             "parameters": [
-              "\\c[2]Ria:\\c[0]"
+              "\\c[2]莉亚:\\c[0]"
             ]
           },
           {
             "code": 401,
             "indent": 0,
             "parameters": [
-              "Why didn't anyone say?!\\."
+              "怎么没人告诉我？！\\."
             ]
           },
           {
             "code": 401,
             "indent": 0,
             "parameters": [
-              "Whatever.\\. I can just attack it normally."
+              "算了。\\.我用普通攻击就行。"
             ]
           },
           {
@@ -955,21 +955,21 @@
             "code": 401,
             "indent": 0,
             "parameters": [
-              "\\c[2]Ria:\\c[0]"
+              "\\c[2]莉亚:\\c[0]"
             ]
           },
           {
             "code": 401,
             "indent": 0,
             "parameters": [
-              "Hahaha...\\.\\."
+              "哈哈哈……\\."
             ]
           },
           {
             "code": 401,
             "indent": 0,
             "parameters": [
-              "W-\\.Why you!"
+              "你、\\.你这！"
             ]
           },
           {
@@ -996,14 +996,14 @@
             "code": 401,
             "indent": 0,
             "parameters": [
-              "\\c[2]Ria:\\c[0]"
+              "\\c[2]莉亚:\\c[0]"
             ]
           },
           {
             "code": 401,
             "indent": 0,
             "parameters": [
-              "Damn!\\. If only I could use my skills!"
+              "该死！\\.要是能用技能就好了！"
             ]
           },
           {
@@ -1027,21 +1027,21 @@
             "code": 401,
             "indent": 0,
             "parameters": [
-              "\\c[2]Ria:\\c[0]"
+              "\\c[2]莉亚:\\c[0]"
             ]
           },
           {
             "code": 401,
             "indent": 0,
             "parameters": [
-              "H-\\.Hey ghost girl!\\."
+              "喂、\\.喂幽灵女孩！\\."
             ]
           },
           {
             "code": 401,
             "indent": 0,
             "parameters": [
-              "Help me!"
+              "帮帮我！"
             ]
           },
           {
@@ -1058,21 +1058,21 @@
             "code": 401,
             "indent": 0,
             "parameters": [
-              "\\c[1]???:\\c[0]"
+              "\\c[1]???：\\c[0]"
             ]
           },
           {
             "code": 401,
             "indent": 0,
             "parameters": [
-              "Okay okay!\\."
+              "好好好！\\."
             ]
           },
           {
             "code": 401,
             "indent": 0,
             "parameters": [
-              "I'll share some of my MP with you!"
+              "我把我的MP分你一些！"
             ]
           },
           {
@@ -1112,7 +1112,7 @@
             "code": 401,
             "indent": 0,
             "parameters": [
-              "Ria recovered 100 MP!"
+              "莉亚恢复了100点MP！"
             ]
           },
           {
@@ -1129,21 +1129,21 @@
             "code": 401,
             "indent": 0,
             "parameters": [
-              "\\c[2]Ria:\\c[0]"
+              "\\c[2]莉亚:\\c[0]"
             ]
           },
           {
             "code": 401,
             "indent": 0,
             "parameters": [
-              "My MP...\\.\\."
+              "我的MP……\\."
             ]
           },
           {
             "code": 401,
             "indent": 0,
             "parameters": [
-              "Now I can..."
+              "现在我可以……"
             ]
           },
           {
@@ -1206,7 +1206,7 @@
         "hidden": false
       }
     ],
-    "name": "Tama Bat*3",
+    "name": "玉蝙蝠*3",
     "pages": [
       {
         "conditions": {
@@ -1260,7 +1260,7 @@
         "hidden": false
       }
     ],
-    "name": "Tama Bat",
+    "name": "玉蝙蝠",
     "pages": [
       {
         "conditions": {
@@ -1345,7 +1345,7 @@
         "hidden": false
       }
     ],
-    "name": "Usami Pixie",
+    "name": "宇佐美精灵",
     "pages": [
       {
         "conditions": {
@@ -1436,7 +1436,7 @@
         "hidden": false
       }
     ],
-    "name": "Tama Bat, Usami Pixie",
+    "name": "玉蝙蝠、宇佐美精灵",
     "pages": [
       {
         "conditions": {
@@ -1521,7 +1521,7 @@
         "hidden": false
       }
     ],
-    "name": "Cement Slime",
+    "name": "水泥史莱姆",
     "pages": [
       {
         "conditions": {
@@ -1612,7 +1612,7 @@
         "hidden": false
       }
     ],
-    "name": "Cement Slime, Usami Pixie",
+    "name": "水泥史莱姆、宇佐美精灵",
     "pages": [
       {
         "conditions": {
@@ -1697,7 +1697,7 @@
         "hidden": false
       }
     ],
-    "name": "Tentagel",
+    "name": "触手胶",
     "pages": [
       {
         "conditions": {
@@ -1794,7 +1794,7 @@
         "hidden": false
       }
     ],
-    "name": "Usami Pixie, Tama Bat*2",
+    "name": "宇佐美精灵、玉蝙蝠*2",
     "pages": [
       {
         "conditions": {
@@ -1885,7 +1885,7 @@
         "hidden": false
       }
     ],
-    "name": "Tama Bat, Tentagel",
+    "name": "玉蝙蝠、触手胶",
     "pages": [
       {
         "conditions": {
@@ -1976,7 +1976,7 @@
         "hidden": false
       }
     ],
-    "name": "Cement Slime*2",
+    "name": "水泥史莱姆*2",
     "pages": [
       {
         "conditions": {
@@ -2073,7 +2073,7 @@
         "hidden": false
       }
     ],
-    "name": "Cement Slime, Usami Pixie*2",
+    "name": "水泥史莱姆、宇佐美精灵*2",
     "pages": [
       {
         "conditions": {
@@ -2170,7 +2170,7 @@
         "hidden": false
       }
     ],
-    "name": "Tentagel, Tama Bat*2",
+    "name": "触手胶、玉蝙蝠*2",
     "pages": [
       {
         "conditions": {
@@ -2267,7 +2267,7 @@
         "hidden": false
       }
     ],
-    "name": "Rock Devil, Cement Slime*2",
+    "name": "岩石恶魔、水泥史莱姆*2",
     "pages": [
       {
         "conditions": {
@@ -2378,7 +2378,7 @@
         "hidden": false
       }
     ],
-    "name": "Tentagel*2",
+    "name": "触手胶*2",
     "pages": [
       {
         "conditions": {
@@ -2475,7 +2475,7 @@
         "hidden": false
       }
     ],
-    "name": "Rock Devil, Tentagel*2",
+    "name": "岩石恶魔、触手胶*2",
     "pages": [
       {
         "conditions": {
@@ -2586,7 +2586,7 @@
         "hidden": false
       }
     ],
-    "name": "Wallai Tribe*2",
+    "name": "瓦莱部族*2",
     "pages": [
       {
         "conditions": {
@@ -2677,7 +2677,7 @@
         "hidden": false
       }
     ],
-    "name": "Ketaketake*2",
+    "name": "蜈蚣*2",
     "pages": [
       {
         "conditions": {
@@ -2768,7 +2768,7 @@
         "hidden": false
       }
     ],
-    "name": "Warp Mole*2",
+    "name": "传送鼹鼠*2",
     "pages": [
       {
         "conditions": {
@@ -2853,7 +2853,7 @@
         "hidden": false
       }
     ],
-    "name": "Busty Cactus",
+    "name": "巨乳仙人掌",
     "pages": [
       {
         "conditions": {
@@ -2938,7 +2938,7 @@
         "hidden": false
       }
     ],
-    "name": "Centapillar",
+    "name": "百足毛虫",
     "pages": [
       {
         "conditions": {
@@ -3023,7 +3023,7 @@
         "hidden": false
       }
     ],
-    "name": "Alraune",
+    "name": "花妖",
     "pages": [
       {
         "conditions": {
@@ -3153,7 +3153,7 @@
             "code": 401,
             "indent": 0,
             "parameters": [
-              "アルラウネは本気を出した！"
+              "花妖使出全力了！"
             ]
           },
           {
@@ -3347,7 +3347,7 @@
         "hidden": false
       }
     ],
-    "name": "Ketaketake",
+    "name": "蜈蚣",
     "pages": [
       {
         "conditions": {
@@ -3444,7 +3444,7 @@
         "hidden": false
       }
     ],
-    "name": "Wallai Tribe*2, Ketaketake",
+    "name": "瓦莱部族*2、蜈蚣",
     "pages": [
       {
         "conditions": {
@@ -3541,7 +3541,7 @@
         "hidden": false
       }
     ],
-    "name": "Warp Mole, Wallai Tribe, Ketaketake",
+    "name": "传送鼹鼠、瓦莱部族、蜈蚣",
     "pages": [
       {
         "conditions": {
@@ -3638,7 +3638,7 @@
         "hidden": false
       }
     ],
-    "name": "Wallai Tribe*3",
+    "name": "瓦莱部族*3",
     "pages": [
       {
         "conditions": {
@@ -3735,7 +3735,7 @@
         "hidden": false
       }
     ],
-    "name": "Ketaketake*3",
+    "name": "蜈蚣*3",
     "pages": [
       {
         "conditions": {
@@ -3826,7 +3826,7 @@
         "hidden": false
       }
     ],
-    "name": "Centapillar*2",
+    "name": "百足毛虫*2",
     "pages": [
       {
         "conditions": {
@@ -3937,7 +3937,7 @@
         "hidden": false
       }
     ],
-    "name": "Busty Cactus*2",
+    "name": "巨乳仙人掌*2",
     "pages": [
       {
         "conditions": {
@@ -4042,7 +4042,7 @@
         "hidden": false
       }
     ],
-    "name": "Lotion Tank",
+    "name": "润滑液坦克",
     "pages": [
       {
         "conditions": {
@@ -4133,7 +4133,7 @@
         "hidden": false
       }
     ],
-    "name": "Mecha Scribe*2",
+    "name": "机械学者*2",
     "pages": [
       {
         "conditions": {
@@ -4218,7 +4218,7 @@
         "hidden": false
       }
     ],
-    "name": "Freezie Box",
+    "name": "冰冻箱",
     "pages": [
       {
         "conditions": {
@@ -4309,7 +4309,7 @@
         "hidden": false
       }
     ],
-    "name": "Karakuri Beetle*2",
+    "name": "机关甲虫*2",
     "pages": [
       {
         "conditions": {
@@ -4394,7 +4394,7 @@
         "hidden": false
       }
     ],
-    "name": "Cleaning Lloyd",
+    "name": "清扫机器人",
     "pages": [
       {
         "conditions": {
@@ -4491,7 +4491,7 @@
         "hidden": false
       }
     ],
-    "name": "Gigantile, Light arm, Left arm",
+    "name": "巨人、光之臂、左臂",
     "pages": [
       {
         "conditions": {
@@ -4632,7 +4632,7 @@
             "code": 401,
             "indent": 0,
             "parameters": [
-              "ギガンティックルはアームを再生した！"
+              "巨人再生了手臂！"
             ]
           },
           {
@@ -4697,7 +4697,7 @@
             "code": 401,
             "indent": 0,
             "parameters": [
-              "ギガンティックルは本気を出した！"
+              "巨人使出全力了！"
             ]
           },
           {
@@ -4806,7 +4806,7 @@
         "hidden": false
       }
     ],
-    "name": "Lotion Tank, Mecha gakusha",
+    "name": "润滑液坦克、机械学者",
     "pages": [
       {
         "conditions": {
@@ -4909,7 +4909,7 @@
         "hidden": false
       }
     ],
-    "name": "Karakuri Beetle*4",
+    "name": "机关甲虫*4",
     "pages": [
       {
         "conditions": {
@@ -5020,7 +5020,7 @@
         "hidden": false
       }
     ],
-    "name": "Lotion Tank*2",
+    "name": "润滑液坦克*2",
     "pages": [
       {
         "conditions": {
@@ -5097,7 +5097,7 @@
   },
   {
     "id": 45,
-      "members": [
+    "members": [
       {
         "enemyId": 19,
         "x": 261,
@@ -5117,7 +5117,7 @@
         "hidden": false
       }
     ],
-    "name": "Gigantile, Light arm, Left arm (Random)",
+    "name": "巨人、光之臂、左臂（随机）",
     "pages": [
       {
         "conditions": {
@@ -5258,7 +5258,7 @@
             "code": 401,
             "indent": 0,
             "parameters": [
-              "ギガンティックルはアームを再生した！"
+              "巨人再生了手臂！"
             ]
           },
           {
@@ -5323,7 +5323,7 @@
             "code": 401,
             "indent": 0,
             "parameters": [
-              "ギガンティックルは本気を出した！"
+              "巨人使出全力了！"
             ]
           },
           {
@@ -5432,7 +5432,7 @@
         "hidden": false
       }
     ],
-    "name": "Cleaning Lloyd*2",
+    "name": "清扫机器人*2",
     "pages": [
       {
         "conditions": {
@@ -5698,7 +5698,7 @@
         "hidden": false
       }
     ],
-    "name": "Occasional bat*2",
+    "name": "偶现蝙蝠*2",
     "pages": [
       {
         "conditions": {
@@ -5817,7 +5817,7 @@
         "hidden": false
       }
     ],
-    "name": "Usami Pixie*2",
+    "name": "宇佐美精灵*2",
     "pages": [
       {
         "conditions": {
@@ -5942,7 +5942,7 @@
         "hidden": false
       }
     ],
-    "name": "Cement slime*3",
+    "name": "水泥史莱姆*3",
     "pages": [
       {
         "conditions": {
@@ -6061,7 +6061,7 @@
         "hidden": false
       }
     ],
-    "name": "Tentagel*2",
+    "name": "触手胶*2",
     "pages": [
       {
         "conditions": {
@@ -6180,7 +6180,7 @@
         "hidden": false
       }
     ],
-    "name": "Rock devil*2",
+    "name": "岩石恶魔*2",
     "pages": [
       {
         "conditions": {
@@ -6293,7 +6293,7 @@
         "hidden": false
       }
     ],
-    "name": "Numonyushi",
+    "name": "沼之主",
     "pages": [
       {
         "conditions": {
@@ -6418,7 +6418,7 @@
         "hidden": false
       }
     ],
-    "name": "Wallai tribe*3",
+    "name": "瓦莱部族*3",
     "pages": [
       {
         "conditions": {
@@ -6537,7 +6537,7 @@
         "hidden": false
       }
     ],
-    "name": "Ketaketake*2",
+    "name": "蜈蚣*2",
     "pages": [
       {
         "conditions": {
@@ -6656,7 +6656,7 @@
         "hidden": false
       }
     ],
-    "name": "Warp Mall*2",
+    "name": "传送商场*2",
     "pages": [
       {
         "conditions": {
@@ -6781,7 +6781,7 @@
         "hidden": false
       }
     ],
-    "name": "Breasts Cactus*3",
+    "name": "巨乳仙人掌*3",
     "pages": [
       {
         "conditions": {
@@ -6900,7 +6900,7 @@
         "hidden": false
       }
     ],
-    "name": "Hundred caterpillar*2",
+    "name": "百足毛虫*2",
     "pages": [
       {
         "conditions": {
@@ -7013,7 +7013,7 @@
         "hidden": false
       }
     ],
-    "name": "Arlaune",
+    "name": "花妖",
     "pages": [
       {
         "conditions": {
@@ -7145,7 +7145,7 @@
         "hidden": false
       }
     ],
-    "name": "Lotion tank*3",
+    "name": "润滑液坦克*3",
     "pages": [
       {
         "conditions": {
@@ -7264,7 +7264,7 @@
         "hidden": false
       }
     ],
-    "name": "Mecha gakusha*2",
+    "name": "机械学者*2",
     "pages": [
       {
         "conditions": {
@@ -7383,7 +7383,7 @@
         "hidden": false
       }
     ],
-    "name": "Freeze Box*2",
+    "name": "冰冻箱*2",
     "pages": [
       {
         "conditions": {
@@ -7508,7 +7508,7 @@
         "hidden": false
       }
     ],
-    "name": "Karakuri Quaggata*3",
+    "name": "机关蛞蝓*3",
     "pages": [
       {
         "conditions": {
@@ -7627,7 +7627,7 @@
         "hidden": false
       }
     ],
-    "name": "Cleaning Lloyd*2",
+    "name": "清扫机器人*2",
     "pages": [
       {
         "conditions": {
@@ -7752,7 +7752,7 @@
         "hidden": false
       }
     ],
-    "name": "Light arm, Gigantile, Left arm (Dream)",
+    "name": "光之臂、巨人、左臂（梦）",
     "pages": [
       {
         "conditions": {
@@ -7896,7 +7896,7 @@
         "hidden": false
       }
     ],
-    "name": "Numonyushi EX",
+    "name": "沼之主EX",
     "pages": [
       {
         "conditions": {
@@ -8148,7 +8148,7 @@
             "code": 401,
             "indent": 0,
             "parameters": [
-              "ヌマヌシＥＸは本気を出した！"
+              "沼之主EX使出全力了！"
             ]
           },
           {
@@ -8271,7 +8271,7 @@
         "hidden": false
       }
     ],
-    "name": "Alleeune EX",
+    "name": "花妖EX",
     "pages": [
       {
         "conditions": {
@@ -8557,7 +8557,7 @@
             "code": 401,
             "indent": 0,
             "parameters": [
-              "アルラウネＥＸは本気を出した！"
+              "花妖EX使出全力了！"
             ]
           },
           {
@@ -8774,7 +8774,7 @@
         "hidden": false
       }
     ],
-    "name": "Gigantic EX, Light arm EX, Left arm EX",
+    "name": "巨人EX、光之臂EX、左臂EX",
     "pages": [
       {
         "conditions": {
@@ -9071,7 +9071,7 @@
             "code": 401,
             "indent": 0,
             "parameters": [
-              "ギガンティックルＥＸはアームを再生した！"
+              "巨人EX再生了手臂！"
             ]
           },
           {
@@ -9136,7 +9136,7 @@
             "code": 401,
             "indent": 0,
             "parameters": [
-              "ギガンティックルＥＸは本気を出した！"
+              "巨人EX使出全力了！"
             ]
           },
           {

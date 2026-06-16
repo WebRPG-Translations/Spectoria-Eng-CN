@@ -123,8 +123,8 @@
       }
     ],
     "gold": 50,
-    "name": "Tama Bat",
-    "note": "<desc1:A bat demon with a round body>\n<desc2:Licks with it's large tongue>",
+    "name": "玉蝙蝠",
+    "note": "<desc1:拥有圆润身体的蝙蝠恶魔>\n<desc2:用大舌头舔舐>",
     "params": [
       250,
       20,
@@ -254,8 +254,8 @@
       }
     ],
     "gold": 50,
-    "name": "Usami Pixie",
-    "note": "<desc1:A pixie who loves rabbit ears>\n<desc2:Wishes the world was rabbits>",
+    "name": "宇佐美精灵",
+    "note": "<desc1:热爱兔耳朵的精灵>\n<desc2:希望世界都是兔子>",
     "params": [
       210,
       20,
@@ -392,8 +392,8 @@
       }
     ],
     "gold": 100,
-    "name": "Cement Slime",
-    "note": "<desc1:Slime monster in cement form.>\n<desc2:Can change from soft to hard>",
+    "name": "水泥史莱姆",
+    "note": "<desc1:水泥形态的史莱姆怪物>\n<desc2:能在软硬之间切换>",
     "params": [
       500,
       50,
@@ -525,8 +525,8 @@
       }
     ],
     "gold": 120,
-    "name": "Tentagel",
-    "note": "<desc1:Synthetic slime with tentacles>\n<desc2:Tentacles have poison>",
+    "name": "触手胶",
+    "note": "<desc1:拥有触手的合成史莱姆>\n<desc2:触手带有毒素>",
     "params": [
       580,
       70,
@@ -668,8 +668,8 @@
       }
     ],
     "gold": 300,
-    "name": "Rock Devil",
-    "note": "<desc1:A powerful demon made of rock>\n<desc2:Can create countless arms>",
+    "name": "岩石恶魔",
+    "note": "<desc1:由岩石构成的强力恶魔>\n<desc2:能创造出无数手臂>",
     "params": [
       1400,
       100,
@@ -835,8 +835,8 @@
       }
     ],
     "gold": 2000,
-    "name": "Numanushi",
-    "note": "<desc1:A large swamp demon made of cement>\n<desc2:The swamp is bottemless...>",
+    "name": "沼主",
+    "note": "<desc1:由水泥构成的大型沼泽恶魔>\n<desc2:沼泽深不见底……>",
     "params": [
       6500,
       500,
@@ -889,7 +889,7 @@
       }
     ],
     "gold": 0,
-    "name": "Tama Bat",
+    "name": "玉蝙蝠",
     "note": "チュートリアル\n<book:no>",
     "params": [
       10000,
@@ -1029,8 +1029,8 @@
       }
     ],
     "gold": 170,
-    "name": "Wallai Tribe",
-    "note": "<desc1:A strange tribe that's always laughing>\n<desc2:Carries a big brush>",
+    "name": "瓦莱族",
+    "note": "<desc1:总是在笑的奇异部族>\n<desc2:携带大刷子>",
     "params": [
       650,
       200,
@@ -1179,8 +1179,8 @@
       }
     ],
     "gold": 160,
-    "name": "Kektake Mushroom",
-    "note": "<desc1:A huge mushroom demon>\n<desc2:Has various status spores>",
+    "name": "克塔克蘑菇",
+    "note": "<desc1:巨大的蘑菇恶魔>\n<desc2:拥有各种状态孢子>",
     "params": [
       700,
       100,
@@ -1317,8 +1317,8 @@
       }
     ],
     "gold": 190,
-    "name": "Warp Mole",
-    "note": "<desc1:Demons capable of making warping holes>\n<desc2:It's right drill is it's favourite>",
+    "name": "穿洞鼹鼠",
+    "note": "<desc1:能制造扭曲洞穴的恶魔>\n<desc2:最爱它右边的钻头>",
     "params": [
       840,
       150,
@@ -1469,8 +1469,8 @@
       }
     ],
     "gold": 500,
-    "name": "Busty Cactus",
-    "note": "<desc1:Cacti with huge boobs for some reason>\n<desc2:Don't get caught!>",
+    "name": "巨乳仙人掌",
+    "note": "<desc1:不知为何长着巨乳的仙人掌>\n<desc2:别被抓到！>",
     "params": [
       1400,
       150,
@@ -1614,8 +1614,8 @@
       }
     ],
     "gold": 450,
-    "name": "Centapillar",
-    "note": "<desc1:A caterpillar demon with countless arms>\n<desc2:It's body is soft like a bed>",
+    "name": "百足毛虫",
+    "note": "<desc1:拥有无数手臂的毛虫恶魔>\n<desc2:身体柔软如床>",
     "params": [
       1500,
       150,
@@ -1785,8 +1785,8 @@
       }
     ],
     "gold": 3000,
-    "name": "Alraune",
-    "note": "<desc1:A devious plant demon>\n<desc2:A master of changing victim's state.>",
+    "name": "阿鲁",
+    "note": "<desc1:狡诈的植物恶魔>\n<desc2:改变受害者状态的高手>",
     "params": [
       11000,
       999,
@@ -1935,8 +1935,8 @@
       }
     ],
     "gold": 700,
-    "name": "Lotion Tank",
-    "note": "<desc1:Tank with plenty of lotion>\n<desc2:Controls powerful machine hands>",
+    "name": "润滑坦克",
+    "note": "<desc1:装满润肤液的坦克>\n<desc2:操控强力机械手臂>",
     "params": [
       1600,
       150,
@@ -2075,8 +2075,8 @@
       }
     ],
     "gold": 220,
-    "name": "Mecha Scribe",
-    "note": "<desc1:A robot who studies constantly>\n<desc2:Can use various magic>",
+    "name": "机械书生",
+    "note": "<desc1:不停学习的机器人>\n<desc2:能使用各种魔法>",
     "params": [
       850,
       300,
@@ -2220,8 +2220,8 @@
       }
     ],
     "gold": 450,
-    "name": "Freezie Box",
-    "note": "<desc1:A demon made from a fridge>\n<desc2:Be careful not to fall asleep near it!>",
+    "name": "冰冻箱",
+    "note": "<desc1:由冰箱变成的恶魔>\n<desc2:小心别在它旁边睡着！>",
     "params": [
       1800,
       300,
@@ -2358,8 +2358,8 @@
       }
     ],
     "gold": 450,
-    "name": "Karakuri Beetle",
-    "note": "<desc1:A machine demon that looks like a beetle>\n<desc2:Can transform into a toilet>",
+    "name": "机关甲虫",
+    "note": "<desc1:看起来像甲虫的机械恶魔>\n<desc2:能变形成马桶>",
     "params": [
       1000,
       300,
@@ -2513,8 +2513,8 @@
       }
     ],
     "gold": 450,
-    "name": "Cleaning Doll",
-    "note": "<desc1:A machine made to wash people>\n<desc2:Usually in a bad mood>",
+    "name": "清洁人偶",
+    "note": "<desc1:用来清洗人的机器>\n<desc2:通常心情不好>",
     "params": [
       2200,
       500,
@@ -2668,8 +2668,8 @@
       }
     ],
     "gold": 50000,
-    "name": "Gigantile",
-    "note": "<desc1:Huge battle machine.>\n<desc2:It attacks with various lasers.>",
+    "name": "巨型者",
+    "note": "<desc1:巨大的战斗机器>\n<desc2:用各种激光攻击>",
     "params": [
       10000,
       999,
@@ -2806,8 +2806,8 @@
       }
     ],
     "gold": 2000,
-    "name": "Right Arm",
-    "note": "<desc1:Gigantile's right arm>\n<desc2:Uses support moves>",
+    "name": "右臂",
+    "note": "<desc1:巨型者的右臂>\n<desc2:使用支援技能>",
     "params": [
       2000,
       300,
@@ -2944,8 +2944,8 @@
       }
     ],
     "gold": 2000,
-    "name": "Left Arm",
-    "note": "<desc1:Gigantile's left arm>\n<desc2:Uses defense moves>",
+    "name": "左臂",
+    "note": "<desc1:巨型者的左臂>\n<desc2:使用防御技能>",
     "params": [
       2000,
       300,
@@ -3108,7 +3108,7 @@
       }
     ],
     "gold": 0,
-    "name": "Occasional bat",
+    "name": "偶蝙蝠",
     "note": "<book:no>",
     "params": [
       999999,
@@ -3210,7 +3210,7 @@
       }
     ],
     "gold": 0,
-    "name": "Usami Pixie",
+    "name": "宇佐美精灵",
     "note": "<book:no>",
     "params": [
       999999,
@@ -3312,7 +3312,7 @@
       }
     ],
     "gold": 0,
-    "name": "Cement slime",
+    "name": "水泥史莱姆",
     "note": "<book:no>",
     "params": [
       999999,
@@ -3414,7 +3414,7 @@
       }
     ],
     "gold": 0,
-    "name": "Tentagel",
+    "name": "触手胶",
     "note": "<book:no>",
     "params": [
       999999,
@@ -3516,7 +3516,7 @@
       }
     ],
     "gold": 0,
-    "name": "Rock devil",
+    "name": "岩石恶魔",
     "note": "<book:no>",
     "params": [
       999999,
@@ -3628,7 +3628,7 @@
       }
     ],
     "gold": 0,
-    "name": "Numonyushi",
+    "name": "沼主",
     "note": "<book:no>",
     "params": [
       999999,
@@ -3730,7 +3730,7 @@
       }
     ],
     "gold": 0,
-    "name": "Wallai tribe",
+    "name": "瓦莱族",
     "note": "<book:no>",
     "params": [
       999999,
@@ -3832,7 +3832,7 @@
       }
     ],
     "gold": 0,
-    "name": "Ketaketake",
+    "name": "克塔克",
     "note": "<book:no>",
     "params": [
       999999,
@@ -3934,7 +3934,7 @@
       }
     ],
     "gold": 0,
-    "name": "Warp Mall",
+    "name": "穿洞鼹鼠",
     "note": "<book:no>",
     "params": [
       999999,
@@ -4036,7 +4036,7 @@
       }
     ],
     "gold": 0,
-    "name": "Breasts Cactus",
+    "name": "巨乳仙人掌",
     "note": "<book:no>",
     "params": [
       999999,
@@ -4138,7 +4138,7 @@
       }
     ],
     "gold": 0,
-    "name": "Hundred caterpillar",
+    "name": "百足毛虫",
     "note": "<book:no>",
     "params": [
       999999,
@@ -4240,7 +4240,7 @@
       }
     ],
     "gold": 0,
-    "name": "Arlaune",
+    "name": "阿鲁",
     "note": "<book:no>",
     "params": [
       999999,
@@ -4342,7 +4342,7 @@
       }
     ],
     "gold": 0,
-    "name": "Lotion tank",
+    "name": "润滑坦克",
     "note": "<book:no>",
     "params": [
       999999,
@@ -4444,7 +4444,7 @@
       }
     ],
     "gold": 0,
-    "name": "Mecha gakusha",
+    "name": "机械学士",
     "note": "<book:no>",
     "params": [
       999999,
@@ -4546,7 +4546,7 @@
       }
     ],
     "gold": 0,
-    "name": "Freeze Box",
+    "name": "冰冻箱",
     "note": "<book:no>",
     "params": [
       999999,
@@ -4648,7 +4648,7 @@
       }
     ],
     "gold": 0,
-    "name": "Karakuri Quaggata",
+    "name": "机关龟甲虫",
     "note": "<book:no>",
     "params": [
       999999,
@@ -4750,7 +4750,7 @@
       }
     ],
     "gold": 0,
-    "name": "Cleaning Lloyd",
+    "name": "清洁人偶",
     "note": "<book:no>",
     "params": [
       999999,
@@ -4852,7 +4852,7 @@
       }
     ],
     "gold": 0,
-    "name": "Gigantile",
+    "name": "巨型者",
     "note": "<book:no>",
     "params": [
       999999,
@@ -4954,7 +4954,7 @@
       }
     ],
     "gold": 0,
-    "name": "Right Arm",
+    "name": "右臂",
     "note": "<book:no>",
     "params": [
       999999,
@@ -5056,7 +5056,7 @@
       }
     ],
     "gold": 0,
-    "name": "Left Arm",
+    "name": "左臂",
     "note": "<book:no>",
     "params": [
       999999,
@@ -5242,8 +5242,8 @@
       }
     ],
     "gold": 10000,
-    "name": "Numonyushi EX",
-    "note": "<desc1:ヌマヌシの強化体。>\n<desc2:土の全体魔法が危険極まりない。>",
+    "name": "沼主EX",
+    "note": "<desc1:沼主的强化体。>\n<desc2:土属性全体魔法极其危险。>",
     "params": [
       35000,
       9999,
@@ -5453,8 +5453,8 @@
       }
     ],
     "gold": 10000,
-    "name": "Alleeune EX",
-    "note": "<desc1:アルラウネの強化体。>\n<desc2:氷と雷の魔法を習得している。>",
+    "name": "阿鲁EX",
+    "note": "<desc1:阿鲁的强化体。>\n<desc2:已习得冰和雷的魔法。>",
     "params": [
       30000,
       9999,
@@ -5669,8 +5669,8 @@
       }
     ],
     "gold": 10000,
-    "name": "Gigantic EX",
-    "note": "<desc1:ギガンティックルの強化体。>\n<desc2:チャージ後の一斉攻撃に注意！>",
+    "name": "巨型者EX",
+    "note": "<desc1:巨型者的强化体。>\n<desc2:注意蓄力后的齐攻！>",
     "params": [
       25000,
       9999,
@@ -5821,8 +5821,8 @@
       }
     ],
     "gold": 0,
-    "name": "Light arm EX",
-    "note": "<desc1:ギガンティックルＥＸの右腕。>\n<desc2:攻撃のサポートをする。>",
+    "name": "右臂EX",
+    "note": "<desc1:巨型者EX的右臂。>\n<desc2:负责攻击支援。>",
     "params": [
       5000,
       500,
@@ -5973,8 +5973,8 @@
       }
     ],
     "gold": 0,
-    "name": "Left arm EX",
-    "note": "<desc1:ギガンティックルＥＸの左腕。>\n<desc2:防御のサポートをする。>",
+    "name": "左臂EX",
+    "note": "<desc1:巨型者EX的左臂。>\n<desc2:负责防御支援。>",
     "params": [
       5000,
       500,
